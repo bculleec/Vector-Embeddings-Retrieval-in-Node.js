@@ -1,0 +1,3486 @@
+AGRONOMY GUIDE
+FOR FIELD CROPS
+Publication 811
+Page intentionally left blank
+Publication 811
+AGRONOMY GUIDE
+FOR FIELD CROPS
+Agronomy Guide for Field Crops
+Publication 811
+Editor
+Christine Brown, OMAFRA
+Co-Editors
+Joanna Follings, OMAFRA
+Meghan Moran, OMAFRA
+Ben Rosser, OMAFRA
+Contributing Authors
+OMAFRA Field Crop Team: Joel Bagg, Dr. Bonnie Ball, Scott Banks, Tracey Baute, Horst Bohner, Christine Brown,
+Mike Cowbrough, James Dyck, Thomas Ferguson, Joanna Follings, Brian Hall, Adam Hayes, Peter Johnson, Jack Kyle,
+Dr. Ian McDonald, Meghan Moran, Jake Munroe, Gilles Quesnel, Nicole Rabe, Ben Rosser, Helmut Spieser, Greg Stewart,
+Albert Tenuta, Anne Verhallen.
+Acknowledgements
+The authors would like to thank the following for their contributions to this publication: Keith Reid, Owen Wally, Tom Welacky (AAFC),
+Jonathan Brinkman, Dr. Bill Deen, Dr. Hugh Earl, Dr. Duane Falk, Dr. Rebecca Hallett, Ken Janovicek, Dr. John Lauzon
+(University of Guelph), Chris Gillard, Dr. Dave Hooker, Dr. Art Schaafsma, Christy Shropshire, Dr. Peter Sikkema,
+Jocelyn Smith (University of Guelph, Ridgetown Campus).
+External reviewers provided guidance to each of the chapters by identifying missing information, verifying technical concepts,
+and ensuring readability. We thank the following reviewers for enhancing this publication.
+Chad Anderson, Anderson Agronomy Services, Mooretown; Dr. Tom Bruulsema, International Plant Nutrition Institute (IPNI),
+Guelph; Deb Campbell CCA-ON, Agronomy Advantage, Dundalk; Dale Cowan, CCA-ON, Senior Agronomist, Agris Cooperative,
+Chatham; Jennifer Doelman, Barclay Dick & Son Farm Supply, Douglas; Blair Freeman, DuPont Pioneer Area Agronomist,
+Central Ontario; Alan McCallum, McCallum Agronomic Services, Elgin County; Adam Pfeffer, Monsanto, Chatham; Eric Richter,
+Syngenta, Thorndale; Craig Reid, Agronomist, Sprucedale Agromart, Sprucedale; Aaron Stevanus, CCA-ON Pride Seeds;
+Paul Sullivan CCA-ON, P.T. Sullivan Agro Inc. Kinburn; Bob Thirlwall, Dekalb Agronomist, Monsanto, Glencoe; Walt Vermunt,
+Hensall District Co-op, Hensall; Kate Withers, Graduate Studies, University of Guelph.
+The Tillage Database resource information, found at www.tillageontario.com is a product of the initiative and funding
+provided by the Innovative Farmers Association of Ontario, OMAFRA, the University of Guelph, and by Canada and the
+Province of Ontario under the Canada-Ontario Research and Development (CORD) Program.
+Need Technical or Business Information?
+Contact the Agricultural Information Contact Centre at
+1-877-424-1300 or ag.info.omafra@ontario.ca.
+Looking for field crop production information on the
+Internet?
+ontario.ca/crops
+It’s one-stop shopping for factsheets, articles and photos
+regarding the production and maintenance of field crops.
+To obtain copies of this or any other OMAFRA publication,
+please order:
+•Online at ontario.ca/publications
+•By phone through the ServiceOntario Contact Centre,
+Monday to Friday, 8:30 a.m. to 5:00 p.m. ET
+•416-326-5300
+•416-326-3408 (TTY)
+•1-800-668-9938, toll-free across Ontario
+•1-800-368-7095 TTY, toll-free across Ontario
+Published by the Ministry of Agriculture, Food and Rural Affairs
+© Queen’s Printer for Ontario, 2017
+Toronto, Canada
+ISBN 978-1-4606-9017-8 (Print) ISBN 978-1-4606-9019-2 (HTML) ISBN 978-1-4606-9021-5 (PDF)
+Introduction
+Field crops are produced in Ontario under diverse soil
+and climatic conditions. The goal is sustainable crop
+production using proven techniques that include:
+scouting and pest management, soil and fertility
+management, tillage, variety selection, planting and
+harvesting practices. These techniques also take into
+consideration the responsible use of natural resources.
+These, combined with in-field trials, help producers
+determine which practices warrant adoption. Good
+agronomic practices are essential for helping Ontario
+farmers produce food, fibre and fuel. Successful crop
+production is dependent upon many inter-related
+management practices. A little good luck and good
+weather helps too.
+Publication 811, the Agronomy Guide for Field Crops
+is designed to be a technical resource for field crop
+production. This third edition replaces the 2009
+edition. It has been updated with current Ontario
+research and production guidelines as approved by
+the Ontario Soil Management Research and Services
+Committee (OSMRSC), which is represented by
+researchers, industry, producers and extension staff.
+Some information used in the Agronomy Guide for
+Field Crops originates from other sources, including
+the University of Guelph, the Ontario Soil and
+Crop Improvement Association (OSCIA), the
+Innovative Farmers Association of Ontario (IFAO),
+seed companies, the United States Department
+of Agriculture (USDA), U.S. universities and
+other research institutions. Data presented in this
+publication — both new and old — represents the
+most relevant and current knowledge available.
+The Agronomy Guide for Field Crops is available in
+its entirety, on the OMAFRA website. Additional or
+updated information on many of the topics discussed
+throughout this guide can often be found on the crops
+pages of the OMAFRA website at ontario.ca/crops or
+at fieldcropnews.com.
+This publication does not provide information regarding
+specific pesticide products for the control of insects,
+diseases or weeds. For pesticide product information,
+see OMAFRA Publication 812, Field Crop Protection
+Guide and Publication 75, Guide to Weed Control.
+Integrated Cropping Systems
+Sustainable Crop Production
+Publication 811, the Agronomy Guide for Field Crops is
+organized by crop and by discipline. Each chapter has
+detailed information that is current, Ontario specific
+and promotes sustainable crop production. Crop
+production is not just about one crop or one specific
+discipline (e.g., pest management). Crop production
+requires an integrated approach that looks at all aspects
+of the farm and production practices, with an eye to
+maintaining or improving the land.
+Sustainable crop production can be defined as
+“developing and utilizing crop production systems that
+meet the need of present producers without compromising
+the ability of future generations of producers to do the
+same” (adapted definition from Dr. G. Brundtland —
+Director-General of the World Health Organization).
+There are three segments to sustainable crop
+production: economic, social and environmental.
+Economic sustainability focuses on:
+• profit/loss of operation
+• supply and demand — product marketability
+• operation capacity and long-term availability
+of resources (e.g., soil)
+• maintaining a viable business for the future
+Social sustainability focuses on:
+• succession planning for the next generation
+• ability to engage with and support the community
+(e.g., rural/urban)
+• maintaining a viable business/family life balance
+Environmental sustainability focuses on:
+• ensuring continued resources to sustain crop
+production activities
+• ability to communicate the use of sustainable,
+traceable production practices to the public
+• maintaining soil health and decreasing negative
+impact of crop inputs on the environment
+(e.g., nutrient/pest management)
+Sustainability = Systems Thinking
+v
+Sustainable crop production requires an integrated
+systems approach. Every field has unique and site-specific
+characteristics that influence management, inputs and
+profitability. Integrated crop management takes all aspects
+of crop production into consideration, including:
+• soil management — texture and tillage requirements
+• crop rotation
+• crop fertility
+• nutrient (waste) management
+• water management
+• crop protection
+• wildlife management
+• site management
+• scouting and record-keeping
+• labour/equipment management
+• energy consumption
+• economic analysis (e.g., determining thresholds for
+action, cost of production, return on investment)
+The Agronomy Guide for Field Crops covers many
+aspects of the sustainable crop production considerations
+listed above. Chapter 1, Corn discusses the aspects
+of tillage, while soil management, crop rotations
+and improving soil health is explored in Chapter 8,
+Managing for Healthy Soils. Scouting and record
+keeping are covered in Chapter 10, Field Scouting,
+while crop fertility and nutrient management are
+discussed in Chapter 9, Soil Fertility and Nutrient Use.
+Crop protection issues are covered in detail in Chapter
+13, Weed Control, Chapter 14, IPM and Protecting
+Natural Enemies and Pollinators, Chapter 15, Insects and
+Pests of Field Crops and Chapter 16, Diseases of Field Crops.
+The paragraphs below summarize how the aspects listed
+above integrate into the production of Ontario field crops.
+It Starts With a Healthy Soil
+Soil health is often described as the soil’s capacity to
+support crop growth, without becoming degraded
+or otherwise harming the environment. Physical,
+chemical and biological indicators are measured to
+determine a soil’s health. Physical indicators include
+aggregate stability, available water holding capacity, soil
+structure and soil compaction. Soil nutrient levels and
+soil pH are chemical indicators. Biological indicators
+include soil organic matter, microbial respiration and
+soil life populations.
+In simple terms a healthy soil will:
+• have good soil structure, minimal compaction
+and resist crusting
+• have good drainage, water movement and
+water-holding capacity
+• have nutrient levels, pH and organic matter
+(OM) in the optimal range
+• be resistant to wind, water or tillage erosion
+• encourage seedling emergence and root growth
+• produce uniform crop growth
+• have an abundance of earthworms
+• have a fresh, earthy odour
+• readily decompose residue
+Most of the characteristics of a healthy soil have a
+direct or indirect link to other aspects of integrated
+crop management. More information on healthy soils
+can be found in Chapter 8, Managing for Healthy Soils.
+Crop Rotation
+Crop rotation is an integral part of the crop production
+system. A well-planned crop rotation will:
+• increase yields
+• aid in maintaining or improving soil structure
+and organic matter levels
+• protect against soil erosion
+• improve soil resilience against weather extremes
+• provide residual nitrogen from legumes in
+the rotation
+• help to disrupt insect and disease cycles
+• reduce weed pressure
+• spread out workload
+The basic rule of crop rotation is that a crop should
+never follow itself. Continuous cropping of any crop
+will increase the buildup of diseases and insects specific
+to that crop and will potentially result in heavier
+infestations and reduced yields. The more often the
+same crop type has been grown in the same field, the
+greater the potential risk.
+The greatest benefit from crop rotation comes when
+crops, including cover crops, grown in sequence are
+from different families; monocots (grasses) and dicots
+(broadleaves). The fibrous root systems of cereal and
+forage crops (including red clover) are excellent for
+building soil structure. The advantage of including
+wheat in the rotation often goes beyond the wheat
+year. Table Intro–1, Management considerations for
+various crop rotations provides an example of response
+to a crop following various crops in a rotation. More
+information about crop rotations can be found in
+Chapter 8, Managing for Healthy Soils.
+vi
+Agronomy Guide for Field Crops
+Table Intro–1. Management considerations for various crop rotations
+Crop
+Previous Crop
+Corn Soybeans Cereals Forages Edible Beans Canola
+Corn •high residue
+volume to
+manage
+•yield depression
+•less herbicide
+rotation/weed
+control options
+•corn rootworm
+slugs (in short
+term no-till)
+•greater
+herbicide
+rotation/weed
+control options
+•increased
+European chafer
+risk (lighttextured soils)
+•high residue in
+no-till system –
+if straw wasn’t
+removed could
+keep soils
+cooler
+•greater
+herbicide
+rotation/weed
+control options
+•greater cover
+crop options
+•increased
+wireworm risk in
+grassy sod
+•no issues •reduced
+mycorrhizae =
+less P uptake
+•potential
+reduced crop
+growth
+Soybeans •high residue
+volume to
+manage
+•greater
+herbicide
+rotation/weed
+control options
+•slugs (short
+term no-till)
+•yield depression
+•low residue
+return –
+declining soil
+organic matter
+•less herbicide
+rotation/weed
+control options
+•increased risk
+of soybean root
+diseases, white
+mould, soybean
+cyst nematode,
+•herbicide
+rotation options
+•slugs could be
+issue (overwinter cover)
+•increased
+wireworm risk
+•increased risk
+of white mould
+•soil degradation
+•increased risk
+of white mould
+•potential
+reduced crop
+growth
+Winter
+Cereals
+•increased
+Fusarium head
+blight risk
+•planting
+date issues
+depending
+on length of
+season bean
+variety
+•increased risk
+of seedling,
+root and leaf
+diseases
+•reduced
+herbicide
+rotation/options
+•increased risk
+of wireworm
+feeding
+•earlier harvest
+makes timely
+planting easier
+•may cause a
+slight reduction
+in growth
+Spring
+Cereals
+•high residue
+can affect
+seedbed
+preparation
+•no issues •increased risk
+of seedling,
+root and leaf
+diseases
+•increased risk
+of wireworm
+•no issues •no issues
+Forages •high residue
+can affect
+seedbed
+preparation
+•limited weed
+control options
+•potential for
+herbicide
+carryover
+•limited weed
+control options
+•autotoxicity if
+re-seeded too
+soon
+•limited weed
+control options
+•no issues •no issues
+Dry Edible
+Beans
+•no issues •increased risk
+of root rots,
+white mould
+•slugs may
+cause damage
+in no-till
+•slugs in no-till
+•reduced
+herbicide
+options
+•soil degradation
+•increased risk
+of root rots and
+white mould
+•yield depression
+•white mould
+•may cause a
+slight decrease
+in growth
+Canola •slugs may
+cause damage
+in no-till
+•harvest is too
+late for planting
+winter canola
+•potential for
+herbicide
+carryover
+•increased risk
+of root rots,
+white mould
+•no issues •slugs may
+reduce stand
+•increased risk
+of white mould
+•yield depression
+•increased risk
+of root rots and
+white mould
+•decreased soil
+structure
+vii
+ Introduction
+Rotation Economics
+The success of a crop is generally evaluated on
+economic yield, where inputs and fixed costs are
+subtracted from gross profit. Most of the time the crop
+is evaluated on a per year basis and includes market
+demand as part of the decision making process as to
+which crop to grow. A more sustainable approach
+to crop economics would look at economic yield by
+rotation. This would combine inputs and fixed costs
+for all the crops within a crop rotation, divided by the
+gross profit of all the crops within that rotation. This
+would allow a longer-term evaluation of all the crops
+and could often reflect benefits beyond the actual crop
+harvested, such as pest management, herbicide rotation
+opportunities or soil building practices. As shown
+below under Economic Justification for Including Wheat
+in a Corn-Soybean Rotation, Dr. B. Deen, University of
+Guelph, demonstrates the potential yield benefit from
+adding wheat into a corn-soybean rotation.
+Economic Justification for Including Wheat in a
+Corn-Soybean Rotation
+Example: Adding Wheat into a Corn-Soybean
+Rotation1
+• 2%–6% increase in corn yield
+6.5 bu/acre @ $4.50/bu = $29.25
+• 9%–14% increase in soybean yield
+5 bu/acre @ $12.00/bu = $60.00
+• reduction in rotational nitrogen requirement
+26.4 lb/acre @ $0.60/lb = $15.84
+• other advantages
+– tillage reduction
+– yield stability
+– opportunity to sell straw
+– potential reduction in compaction
+– improved soil structure
+– spread-out workload
+Conservative estimate = $10.00
+Total additional profit to wheat is approximately
+$115.00/acre
+Benefits of diversifying a crop rotation include:
+• increased subsequent corn yield (average 4%)
+• increased subsequent soybean yield (average 11%)
+• opportunity for addition of cover crops
+• opportunity for manure application
+• opportunity for wheat straw sales
+• spread workload over growing season
+When profitability is assessed on a full rotation basis,
+often the economies of scale have resulted in accepting
+a lower profit per acre.
+1
+Source: Dr. B. Deen, University of Guelph. Metric
+is not provided as the example is for illustrative
+purposes only.
+Integrating Cover Crops into the Rotation
+Resilient crop yields can be maximized by improving
+soil health, which is enhanced through the use of cover
+crops. Long-term advocates have found that adding
+cover crops to their rotation adds a critical amount
+of additional carbon to the soil.
+Cover crops should be considered as part of the overall
+crop rotation and especially on soils with lower organic
+matter, or on fields with short rotations and little
+return of crop residue or manure. Cover crops can
+help to ensure appropriate ground cover over the
+non-growing season to help protect the soil. It is
+important to know the goal or expected benefit from
+a cover crop. The section Matching Cover Crop Choices
+to Function, looks at the various reasons for including
+cover crops in a rotation and the potential cover
+crops that best meet those goals. See Chapter 8,
+Managing for Healthy Soils for more information
+about cover crops.
+viii
+Agronomy Guide for Field Crops
+Matching Cover Crop Choices to Function
+Cover Crop Function Best Choices for Cover Crops
+• nitrogen production • legumes — red clover and other clovers, alfalfa, peas, vetch
+• nitrogen scavenging • fall uptake — oilseed radish and other brassicas, oats, barley
+• winter/spring uptake — cereal rye, winter wheat
+• weed suppression • fast growing/shading plants — oilseed radish and other brassicas,
+winter rye, buckwheat
+• soil structure building • fibrous root systems from oats, barley, rye, wheat, triticale,
+ryegrass or clovers
+• compaction reduction • most cover crops roots will assist in reducing compaction
+• moderate compaction — radish
+• more severe compaction requires strong, dense tap roots that grow
+over time — alfalfa, sweet clover
+• biomass return to soil • fall seeded — spring cereals, oilseed radish
+• summer-seeded — millets, sorghum, sudangrass, sorghum-sudangrass
+• erosion protection, (wind, water) • most cover crops once well established — winter rye, winter wheat,
+ryegrass (well-established), spring cereals seeded early
+• emergency forage • fall — oats, barley, wheat, rye, forage brassicas
+• summer — millet, sorghum, sudangrass, sorghum-sudangrass,
+see Table 3–2 for more annual forage options
+• nematode suppression • cutlass mustard, sudans/sorghums (Sordan 79, Trudan 8) pearl
+millet (CFPM 101), marigold (Crackerjack, Creole), oilseed radish
+(Adagio, Colonel)
+Not all cover crops have the ability to suppress nematode populations;
+some can act as hosts. Cover crop activity is variety- and nematode-specific.
+Tillage and Residue Management
+Reasons for Tillage
+There are many reasons to perform tillage for crop
+production in addition to increasing soil dry-down.
+Soil is also tilled for reasons, including:
+• weed control
+• wireworm and grub suppression
+• soil levelling to improve seedbed uniformity
+• incorporation of crop residues
+• incorporation of fertilizer and manure
+• seedbed preparation
+The advent of herbicides greatly reduced the need for
+tillage to control weeds (except in organic systems)
+and the development of equipment to plant into crop
+residues ensures that crops can be planted successfully
+with little or no tillage. Generally, performing primary
+tillage operations in the spring will leave the soil less
+prone to erosion than tillage in the fall. It is best to
+use the least amount of tillage necessary to achieve
+the goal. This will help to keep the soil in place and
+prevent movement into water courses.
+Considering all parts of the system will improve the
+success of any tillage system. For example:
+ix
+ Introduction
+• Spreading residue and chaff evenly at harvest will
+improve tillage and planting operations.
+• A diverse crop rotation can reduce insect and disease
+issues and can increase the potential success with
+reduced tillage.
+• Adapting the planter or drill for specific soil texture
+and/or crop residue type, over and above the
+addition of coulters or residue wheels, will improve
+seed placement.
+A number of different tillage systems are used in
+Ontario. These are summarized below. Additional
+information can be found in the tillage section of
+Chapter 1, Corn.
+Conventional Tillage
+Conventional tillage in Ontario generally consists of
+fall mouldboard or chisel plowing followed in spring
+by secondary tillage, usually with a field cultivator or
+tandem disc. Most plowing is targeted to an operating
+depth of 15 cm (6 in.), since plowing deeper often
+results in unwanted mixing of subsoil into the seedbed.
+The more uniform and level a field is left after fall
+plowing, the greater the opportunities to reduce
+secondary tillage costs and improve planter or drill
+performance. One disadvantage is that the lack of
+surface residue in conventional tillage exposes fields
+to greater erosion risks from water and wind. On
+complex slopes, tillage can be responsible for causing
+large quantities of topsoil to move to lower slope
+positions (tillage erosion).
+Fall Mulch Tillage
+The chisel plow, disc-ripper and discs (either tandem
+or offset) are the most widely adopted fall primary
+tillage tools in Ontario. These tools usually leave more
+residue on the soil surface while leaving the surface
+level in the fall, so that single-pass planting (no
+secondary tillage) becomes a viable option in the spring.
+Vertical Tillage
+Vertical tillage is used to reduce any pushing or
+smearing action that may be caused by tillage tools.
+Many vertical tillage tools are designed to size residue
+into more manageable pieces and distribute crop
+residue, while causing some soil fracturing and mixing
+of soil with residue at the surface. A number of tillage
+tools embrace the concept of “vertical” tillage, but
+use shallow concavity discs, low profile sweeps and
+extensive harrows to provide some additional soil
+disturbance — all the while attempting to remain true
+to the idea of tillage without significant inversion and
+soil smearing.
+Spring Mulch Tillage
+The best practice for reducing erosion and input costs
+is to eliminate fall tillage. Producers working on finetextured soils, where crop residues are high following
+corn, wheat or other crops, may be apprehensive about
+leaving soils untouched in the fall. Following soybeans
+or dry edible beans, there is little justification for doing
+fall tillage on most fields in Ontario. Considerations
+following other crops include risk of soil erosion,
+availability of equipment to handle spring residue
+and field drainage. Producer experience with spring
+mulch tillage systems has shown that working
+undisturbed soils in the spring obtained better results
+when using high-clearance tines, narrow teeth and/or
+when packers or rollers were used in conjunction with
+the field cultivator.
+Fall Strip-Tillage
+Performing fall tillage, confined to narrow zones that
+correspond to next year’s corn rows, has received
+considerable attention in the past few years. The strips of
+soil are loosened, cleared of residue and often elevated,
+while leaving the rest of the field covered with protective
+crop residue. The following spring, the strips are drier,
+less dense and more suited to “no-till” planting.
+Strip-tillage systems also provide an opportunity to
+band fertilizers that must be broadcast in a no-till
+system. Applying fertilizer using the strip-tillage
+system may also replace the need to apply banded
+starter fertilizers through the planter. Fall banding of
+phosphorus and potassium in strip-tillage systems,
+with adequate fertility levels, can produce higher yields
+than when similar rates of fertilizer are broadcast in
+no-till systems.
+Spring Strip-Tillage
+Spring strip-tillage offers an opportunity to prepare
+fine, residue-free seedbeds in which a planter can
+operate. Most spring strip-tillage operations are
+restricted to the lighter textured soils but in some cases
+medium textured soils that are well drained are suitable
+for this one pass tillage option. The spring strip-tillage
+operation usually precedes the planter by no more
+than 6–12 hours in order to prevent the seed zone
+from drying out excessively. Producers have also used
+x
+Agronomy Guide for Field Crops
+spring strip-tillage as a technique for applying all or
+part of a corn crop’s nitrogen (N), phosphorus (P) and
+potassium (K) requirements.
+From a soil conservation perspective, spring striptillage also offers the advantage of eliminating the
+presence of fall strips that can potentially funnel
+water and be susceptible to erosion, especially if
+implemented up and down the slope.
+Deep Tillage
+Increasing axle loads of farm machinery, and the
+general concern that soils have become more compacted,
+have increased the use of deep tillage systems. The
+main reason offered for deep tillage is that elimination
+of compacted sub-soil layers and/or tillage pans will
+promote rapid and deep root growth and improve
+drainage. However, in Ontario, subsoils loosened using
+deep tillage are often easily re-compacted by wheel
+traffic. Moreover, it is possible that deep-tilled soils
+receiving wheel traffic end up with poorer drainage
+because deep tillage destroyed the natural pores created
+by worms or previous crop roots. Deep tillage into
+dry soils combined with deep rooted crops (alfalfa,
+sweet clover) offer the best opportunity for repairing
+compacted soils.
+No-Till Systems
+In no-till systems, tillage is not used to prepare a
+seedbed. Minimal soil loosening in a narrow band
+immediately ahead of the seed opener is performed
+by planter-mounted coulters and/or residue clearing
+devices. Successful no-till crop production is partially
+dependent on effective use of alternative production
+practices and field management strategies that deal
+with yield-limiting factors that otherwise would have
+been corrected with tillage.
+For successful no-till production it is important to:
+• have good soil drainage and water infiltration
+• maintain a multi-crop crop rotation
+• incorporate residue management to maintain some
+soil cover all year
+• incorporate weed control strategies without use of
+tillage
+• manage diseases and insects
+• start with adequate soil fertility levels and consider
+fertilizer placement
+• minimize soil compaction
+Field Scouting and Integrated Pest Management
+Integrated Pest Management (IPM) is an approach
+to weed, insect and disease management that uses all
+available control strategies to manage pest populations,
+keeping them below economic thresholds. This
+results in a cropping system that is more resilient to
+failures since it does not exclusively rely on the use of
+pesticides to control pests. For example, integrated
+weed management strategies include field scouting,
+tillage and nutrient management practices, crop
+rotations and cover crops.
+Ongoing monitoring of fields and crops, throughout
+the growing season and beyond, allows a farmer to
+observe issues and apply remediation in a timely
+manner to minimize any negative economic impact,
+while improving field operation efficiencies. Some
+problems cannot be addressed when observed, but
+the information can still be recorded for future use.
+While traditionally field scouting has been solely
+associated with pest monitoring and management,
+it has many other benefits, including:
+• pre-planting field walks that identify drainage issues
+• post-planting field walks to look at equipment
+performance (planters delivering desired population,
+depth, placement across the entire unit)
+• nutrient management (specific areas with nutrient
+deficiency symptoms)
+• crop variety selection (evaluation of in-field
+comparisons of variety performance)
+• scouting as part of soil sampling, which allows
+observation of field conditions (erosion, drainage)
+outside the cropping window
+Additional information about field scouting can be
+found in Chapter 10, Field Scouting.
+Record Keeping
+New tools are available to increase the value of
+scouting and to assist in record keeping. With the
+adoption of smartphones and tablets, a large number
+of apps are available to assist with scouting. Selected
+apps should address all the information parameters
+of interest and integrate with other software/hardware
+systems on the farm. An app that isolates data on
+a phone or tablet offers little value. Many of the
+crop and whole farm management systems have
+developed field apps that integrate with their main
+programs. Many of these also take advantage of
+Global Positioning Systems (GPS) capabilities to
+xi
+ Introduction
+better identify the location where problems/issues are
+discovered. Figure Intro–1, An example of an Ontario
+scouting and record keeping smartphone app, is a collection
+of screen shots from Pest Manager, an app developed
+to aid Ontario producers in identifying pests while
+scouting. Pest Manager provides instant management
+options, with the ability to map the locations where the
+pest was found for record keeping purposes.
+Figure Intro–1. An example of an Ontario scouting
+and record keeping smartphone app.
+The Pest Manager app is an excellent example of a
+scouting and record keeping tool for pest management.
+The app includes diseases, weeds, and insects of
+soybean, corn and cereal crops. Users can map areas of
+fields where pests are identified. This tool can help in
+the identification of each pest (insect, weed, disease)
+and provides detailed information on their life cycle,
+impact, action thresholds and management strategies,
+including biological, cultural and chemical control
+options. Information provided within this app is
+only valid for Ontario. When using pesticides, always
+be sure to read and follow the labels and warnings.
+This app is free to download and is available for iOS,
+Android and the BlackBerry BB10 operating systems.
+A Systems Approach to Managing Crop Nutrients
+How nutrients are managed for crop production will
+depend on many other components of the whole farm
+operation. The 4R concept of nutrient management
+— the right nutrient sources, at the right rate, at
+the right time and in the right place — is being
+implemented world-wide by industry, researchers,
+government agencies, producers and their advisors.
+4R nutrient stewardship is an approach that is essential
+to the development of sustainable agriculture. Its
+application can have positive impacts on increasing
+food production in an economically viable manner,
+while preserving the environment.
+4R stewardship or nutrient management is a systems
+approach that considers the following components:
+1. Inventory of nutrients on the farm
+This includes organic (manure), inorganic,
+the nutrients needed by the crop and those
+already in the soil.
+2. Characteristics of field and farm
+Nutrients are managed according to land base
+availability, production goals, proximity to water
+resources, farmstead layout, equipment availability
+and safety concerns.
+3. Site conditions when nutrients are applied
+Crop requirements and baseline fertility levels
+from regular soil testing are used to determine best
+application rates. At the time of application, field
+conditions are assessed to determine the best nutrient
+source and the best option for nutrient placement.
+Where manure or other organic amendments are
+applied, special consideration is given to odour,
+potential nutrient loss and maintaining adequate
+separation distance from sensitive areas.
+4. Residual nutrients from previous crops
+Where legumes are used in rotation, or where
+manure or other organic amendments are applied
+regularly, credit is given to available nutrients and
+is subtracted from commercial fertilizer needs.
+5. Nutrient use efficiency
+Nutrient use efficiency ensures that the nutrients
+are available when the crop requires them,
+resulting in reduced nutrient loss and sustained
+soil fertility.
+6. Production vs. profit
+Because maximum yield will not always give the
+most profitable yield, crop production practices
+should always strive for maximum economic yield.
+7. Other farm management considerations
+Nutrient management is part of a comprehensive
+crop production system that includes soil and
+water management, crop rotation, variety selection,
+planting techniques, tillage systems and pest
+management. How nutrients are managed will
+depend on these other components of the whole
+farm operation, including some of the social
+aspects such as family needs and outside-farm
+interests. For additional information see Chapter 9,
+Soil Fertility and Nutrient Use.
+xii
+Agronomy Guide for Field Crops
+Contents
+Introduction
+Integrated Cropping Systems . . . . . . . . . . . . . . . . . . . . v
+Crop Rotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi
+Tillage and Residue Management . . . . . . . . . . . . . . . . ix
+Conventional Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
+Fall Mulch Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
+Vertical Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
+Spring Mulch Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
+Fall Strip-Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
+Spring Strip-Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . x
+Deep Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xi
+No-Till Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . xi
+1. Corn
+Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Soil Texture and Drainage . . . . . . . . . . . . . . . . . . . . . . . . 1
+Crop Rotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Other Reasons for Tillage . . . . . . . . . . . . . . . . . . . . . . . . 1
+Conventional Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Fall Mulch Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Vertical Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Spring Mulch Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Fall Strip Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Spring Strip Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Deep Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+No-Till Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Hybrid Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Maturity Ratings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Selecting the Most Profitable Hybrids . . . . . . . . . . 10
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Seeding Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Population . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Planting Depth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Corn Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Corn Leaf Stages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Uniformity of Emergence . . . . . . . . . . . . . . . . . . . . . . . 18
+Uniformity of Spacing . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Row Widths . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Replant Decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Nitrogen (N) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Phosphate and Potash . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Maximum Safe Rates of Fertilizer . . . . . . . . . . . . . . 28
+Phosphorus (P): Band vs. Broadcast . . . . . . . . . . . 29
+Secondary and Micronutrients . . . . . . . . . . . . . . . . . 30
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Foliar Fertilization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Harvesting and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Corn Harvest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Corn Storage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+Other Crop Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Cold Weather . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Heat Stress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Hail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Flooding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Drought . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Bird Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+2. Soybeans
+Tillage Options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+No-Till and Minimum Tillage . . . . . . . . . . . . . . . . . . . . 41
+Managing Crop Residue . . . . . . . . . . . . . . . . . . . . . . . . 42
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Maturity Group (MG) . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Hilum Colour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Planting and Crop Development . . . . . . . . . . . . . . . . . . . 47
+Seed Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Planting Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Delayed Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Row Width and Seeding Equipment . . . . . . . . . . . . 51
+Seeding Rates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Seed Treatments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Planting Depth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Replant Decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Compensation and Plant Spacing (Gaps) . . . . . . 56
+Plant Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Nitrogen and Sulphur . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Phosphate and Potash . . . . . . . . . . . . . . . . . . . . . . . . . 60
+Methods of Application . . . . . . . . . . . . . . . . . . . . . . . . 61
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Micronutrients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+Minimize Harvest Losses . . . . . . . . . . . . . . . . . . . . . . 62
+Quality and Identity Preservation (IP) . . . . . . . . . . . 63
+Soybean Drying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Other Crop Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Frost and Hail Damage . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Late Season Cold Temperature
+and Frost Injury . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Lightning Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Mature Green Seed . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+xiii
+3. Forages
+Species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Perennial Legumes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Perennial Grasses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Species Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Annual Forages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+Warm-Season Annual Grasses . . . . . . . . . . . . . . . . . 79
+Establishment (Planting) . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Seedbed Preparation . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Seeding Rates and Depth . . . . . . . . . . . . . . . . . . . . . . 82
+Seeding Equipment Options . . . . . . . . . . . . . . . . . . . 83
+Direct Seeding or Seeding With a
+Companion Crop . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Seeding Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+Alfalfa Autotoxicity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+Frost Seeding Pastures . . . . . . . . . . . . . . . . . . . . . . . . 86
+Inoculation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+Nitrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+Phosphate and Potash . . . . . . . . . . . . . . . . . . . . . . . . . 87
+Micronutrients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+Liming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+Pasture Management . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+Forage Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+Measuring Corn Silage Digestible Energy . . . . . . 92
+Forage Harvest Timing . . . . . . . . . . . . . . . . . . . . . . . . . 92
+Forage Harvesting Methods . . . . . . . . . . . . . . . . . . . 93
+Haylage and Corn Silage . . . . . . . . . . . . . . . . . . . . . . . 98
+Other Crop Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+Forage Winterkill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+Factors That Affect Winter Survival . . . . . . . . . . . . 105
+4. Cereals
+Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Tillage Options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+No-Till Seeding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Conventional Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+Frost Seeding of Spring Cereals . . . . . . . . . . . . . . 110
+Aerial Seeding Winter Wheat . . . . . . . . . . . . . . . . . . 111
+Broadcast Seeding . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+Harvest Sprout Tolerance . . . . . . . . . . . . . . . . . . . . . 112
+Winter Hardiness and Cold Tolerance . . . . . . . . . 112
+Factors Unique to Cereal Crops . . . . . . . . . . . . . . . 112
+Cereal Species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+Biotechnology and Cereal Crops . . . . . . . . . . . . . . 116
+Planting and Crop Development . . . . . . . . . . . . . . . . . . 117
+Depth of Seeding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+Cereal Development . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+Planting Dates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+Replanting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+Seeding Rates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+Row Widths . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Crop Rotation for Winter Wheat . . . . . . . . . . . . . . 123
+Additional Management Opportunities . . . . . . . . . . . 124
+Growth Regulators . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+Fungicides . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+Fusarium Head Blight . . . . . . . . . . . . . . . . . . . . . . . . . 125
+Spraying Basics: Fusarium Control
+in Wheat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+Maximize Spray Coverage of Wheat Heads . . . 125
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+Nitrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+Phosphate and Potash . . . . . . . . . . . . . . . . . . . . . . . . 131
+Corn Row Syndrome . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+Micronutrients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+Optimizing Combine Adjustments . . . . . . . . . . . . . 136
+Fusarium-Damaged Grain . . . . . . . . . . . . . . . . . . . . . 136
+Lodged Grain Crops . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+Bunt-Infected Wheat . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+Drying and Storing Wheat . . . . . . . . . . . . . . . . . . . . . . . . 138
+Drying Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+Other Crop Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . 140
+Winterkill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+Frost Heaving . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+Ice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+Cold Injury . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+5. Dry Edible Beans
+Tillage Options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+Site Selection and Crop Rotation . . . . . . . . . . . . . 143
+Soil Type and Structure . . . . . . . . . . . . . . . . . . . . . . . 143
+Disease History . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144
+Planting . 145
+Seed Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+Planting Date . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+Seeding Rates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+Seeding Depth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Row Width . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Inoculation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+Dealing with Soil Crusting . . . . . . . . . . . . . . . . . . . . . 147
+Stand Assessment and Replant Decisions . . . 148
+Plant Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+Nitrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+Phosphate and Potash . . . . . . . . . . . . . . . . . . . . . . . 150
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+Micronutrients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+Dockage and Pick . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+Pulling, Windrowing, Combining . . . . . . . . . . . . . . . 152
+xiv
+Agronomy Guide for Field Crops
+Direct Combining . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+Quality Preservation at Harvest . . . . . . . . . . . . . . . 153
+Other Crop Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 153
+Frost and Hail Damage . . . . . . . . . . . . . . . . . . . . . . . . 154
+Bald Heads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+Soil Compaction and Soil Structure . . . . . . . . . . . 154
+Sunscald and Bronzing . . . . . . . . . . . . . . . . . . . . . . . 156
+6. Spring and Winter Canola
+Tillage Options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+Conventional Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+Reduced Tillage and No-Till . . . . . . . . . . . . . . . . . . . 157
+Site Selection and Crop Rotation . . . . . . . . . . . . . 157
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+Planting . 158
+Seed Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+Seed Treatments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+Winter Canola Seeding . . . . . . . . . . . . . . . . . . . . . . . . 159
+Spring Canola Seeding . . . . . . . . . . . . . . . . . . . . . . . 159
+Seeding Conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+Seeding Rate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+Checking Conventional Drill Calibration . . . . . . . 161
+Seed Bulking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+Seeding Depth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+Packing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+Assessing Canola Stands and
+Replant Decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+Crop Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+Placement and Timing . . . . . . . . . . . . . . . . . . . . . . . . 165
+Nitrogen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+Phosphate and Potash . . . . . . . . . . . . . . . . . . . . . . . . 166
+Phosphorus (P) Requirements . . . . . . . . . . . . . . . . 166
+Maximum Safe Rates of Seed-Placed
+Nutrients for Canola . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+Sulphur . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+Boron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+Direct Harvest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+Swathing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+Pre-Harvest Herbicides to Assist
+Canola Harvest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+Combining Canola . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+Storage of Canola . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+Other Crop Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 170
+Frost . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
+Hail Damage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 171
+Brown Seed (Heat Damaged) . . . . . . . . . . . . . . . . . 171
+Temperature Stress (Heat Blast) . . . . . . . . . . . . . 171
+Green Seed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+Winterkill . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+Cross-Pollination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 172
+7. Other Crops
+Buckwheat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 173
+Tillage Options and Seedbed Preparation . . . . . 173
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 174
+Fertility Management. 174
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 176
+Camelina . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 176
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+Fertility Management. 176
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Flax . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 177
+Tillage and Seedbed Preparation . . . . . . . . . . . . . . 177
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Crop Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+Fertility Management. 178
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+Straw Removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 179
+Hemp. 179
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 179
+Description . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+Soil Conditions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+Tillage and Seedbed Preparation . . . . . . . . . . . . . . 179
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+Fertility Management. 180
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+Retting and Turning . . . . . . . . . . . . . . . . . . . . . . . . . . . 180
+Baling and Storing . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 181
+Miscanthus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 181
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+Fertility Management. 182
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 183
+Quinoa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+xv
+Contents
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 183
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+Fertility Management. 183
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+Pest Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+Weeds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 184
+Sunflower . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 184
+Variety Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+Rotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+Tillage and Seedbed Preparation . . . . . . . . . . . . . . 185
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185
+Fertility Management . . . . . . . . . . . . . . . . . . . . . . . . . 185
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 186
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 187
+Switchgrass . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+Production Requirements . . . . . . . . . . . . . . . . . . . . . 187
+Rotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+Tillage and Seedbed Preparation . . . . . . . . . . . . . . 188
+Planting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 188
+Fertility Management. 188
+Harvest and Storage . . . . . . . . . . . . . . . . . . . . . . . . . . 189
+Insects and Diseases . . . . . . . . . . . . . . . . . . . . . . . . . 189
+Weed Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189
+Other Biomass Crops . . . . . . . . . . . . . . . . . . . . . . . . . 189
+8. Managing for Healthy Soils
+Healthy Soils are Productive Soils . . . . . . . . . . . . 191
+Good Soil Management . . . . . . . . . . . . . . . . . . . . . . . 191
+Building a Healthy Soil . . . . . . . . . . . . . . . . . . . . . . . . 192
+Crop Rotation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
+Crop Rotation Provides Yield Stability
+in Adverse Years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+Crop Rotation Increases Soil
+Organic Matter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+Crop Rotation Increases Productivity
+and Nutrient Cycling . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+Cover Crops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+Choosing a Cover Crop . . . . . . . . . . . . . . . . . . . . . . . . 196
+Characteristics of Cover Crops . . . . . . . . . . . . . . . . 197
+Reducing Tillage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+Fertility Management. 201
+Applying Organic Materials (Residues)
+to the Land . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202
+Preventing Soil Degradation . . . . . . . . . . . . . . . . . . . 205
+Soil Compaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 206
+Soil Health: Measure to Manage . . . . . . . . . . . . . . 207
+Soil Health Check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 207
+The Foundations of Soil Management . . . . . . . . 210
+Soil Life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Soil Structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Granular . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Platy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+Blocky . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
+Columnar or prismatic . . . . . . . . . . . . . . . . . . . . . . . . 212
+Structureless . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
+Aggregate Stability . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+Soil Quality and Soil Genesis . . . . . . . . . . . . . . . . . . . . 213
+Soil Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+Soil Formation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+Soil Variability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+9. Soil Fertility and Nutrient Use
+Principles for Optimum Management
+of Nutrients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+Soil Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+Other Methods of Assessing
+Nutrient Needs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+The OMAFRA-Accredited Soil-Testing
+Program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+Technology Options for Soil Testing . . . . . . . . . . . 216
+Geo-Referenced and Directed Sampling . . . . . . 217
+Defining Soil Sampling Zones
+(i.e., management zones) . . . . . . . . . . . . . . . . . . . . . 218
+Using the Soil Test Results . . . . . . . . . . . . . . . . . . . 219
+How Often to Sample . . . . . . . . . . . . . . . . . . . . . . . . . 219
+Time of Year . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
+Micronutrient Tests . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Plant Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Fertilizer Guidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Soil Acidity and Liming . . . . . . . . . . . . . . . . . . . . . . . . 220
+Limestone Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+Magnesium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 224
+Calcium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Sulphur . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Micronutrient Fertilizers . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Manganese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Zinc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+Copper . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+Boron . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+Iron and Molybdenum . . . . . . . . . . . . . . . . . . . . . . . . . 226
+Adjustments to Fertilizer Guidelines . . . . . . . . . . . . . . 227
+Adjustment for Legumes Plowed Down . . . . . . . . 227
+Adjustments for Manure Application . . . . . . . . . . 227
+Manure Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+The Value of Manure . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+Nutrient Management Plans . . . . . . . . . . . . . . . . . . 230
+Availability of Manure Nitrogen to Crops . . . . . . . . . 230
+Manure Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+Long-Term Value of Manure . . . . . . . . . . . . . . . . . . . 237
+Crop Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+Environmental Concerns With Manure . . . . . . . . 239
+Nitrogen Risk Mitigation . . . . . . . . . . . . . . . . . . . . . . 240
+Phosphorus Risk Assessment . . . . . . . . . . . . . . . . 240
+Manure and No-Till . . . . . . . . . . . . . . . . . . . . . . . . . . . . 241
+Calibrating Application Equipment . . . . . . . . . . . . 241
+xvi
+Agronomy Guide for Field Crops
+Use of Non-Agricultural Sourced Materials
+on Agricultural Land . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 242
+Fertilizer Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+Soluble Salts in Farm Soils . . . . . . . . . . . . . . . . . . . 244
+Foliar Fertilizers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 247
+Calculating Fertilizer Requirements . . . . . . . . . . . 247
+Citations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248
+10. Field Scouting
+Field Scouting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+Traditional Field Scouting . . . . . . . . . . . . . . . . . . . . . 249
+Timing of Field Scouting Operations . . . . . . . . . . 249
+Scouting Tools and Techniques . . . . . . . . . . . . . . . 250
+New Tools for Field Scouting . . . . . . . . . . . . . . . . . . 250
+Scouting for Insects . . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+Using a Drop Cloth . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+Using an Insect Trap . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+Using Sweep Nets . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251
+Number of Sampling Locations . . . . . . . . . . . . . . . 251
+Scouting Pattern . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+Plant Population and Pest Infestation
+Levels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 253
+Recording Field Observations . . . . . . . . . . . . . . . . . 254
+Sample Handling and Submission . . . . . . . . . . . . 254
+Using Growing Degree Days and Crop
+Heat Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254
+Growing Degree Days . . . . . . . . . . . . . . . . . . . . . . . . 254
+Crop Heat Units (CHU) . . . . . . . . . . . . . . . . . . . . . . . . 255
+Calculating Daily CHU . . . . . . . . . . . . . . . . . . . . . . . . . 256
+Mapping Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+11. Precision Agriculture
+Precision Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259
+Real Time Kinematic (RTK) and Global
+Positioning Systems (GPS) . . . . . . . . . . . . . . . . . . . . 259
+Applications for Precision Agriculture . . . . . . . . . 259
+Variable Rate Application . . . . . . . . . . . . . . . . . . . . . 260
+Technology Challenges . . . . . . . . . . . . . . . . . . . . . . . . 261
+Real-Time Management . . . . . . . . . . . . . . . . . . . . . . . 261
+Remote Sensing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 261
+Unmanned Aerial Vehicles / Unmanned
+Aerial Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 261
+12. On-Farm Stored Grain Management
+Storing Grain in Bins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265
+Good Bin Management Suggestions . . . . . . . . . . 265
+Grain Storage Monitoring . . . . . . . . . . . . . . . . . . . . . 266
+Insect Management for Farm-Stored Grain . . . . . . . 267
+Keep a Clean Facility . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+Maintain Sound Storage Facilities . . . . . . . . . . . . 267
+Store Clean, Dry Grain . . . . . . . . . . . . . . . . . . . . . . . . 267
+Monitor Storage Temperature and Sample
+for Insects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+Identify Pests Properly . . . . . . . . . . . . . . . . . . . . . . . . 268
+Stored-Grain Insects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 268
+Scouting Technique for Stored-Grain Insects . . 268
+13. Weed Control
+Crop Yield Losses Due to Weeds . . . . . . . . . . . . . . . . 273
+Integrated Weed Management Strategies . . . . . 273
+Crop Competitiveness Against Weeds . . . . . . . . 276
+Mechanical Weed Control . . . . . . . . . . . . . . . . . . . . . 278
+Herbicide Resistance . . . . . . . . . . . . . . . . . . . . . . . . . 279
+Herbicide Injury . 279
+Injury Symptoms at Various Plant Locations
+Caused by Different Herbicide Families . . . . . . . 280
+Bibliography and Citations . . . . . . . . . . . . . . . . . . . . 290
+14. Integrated Pest Management and
+Protecting Natural Enemies and Pollinators
+Integrated Pest Management . . . . . . . . . . . . . . . . . . . . 293
+Promoting and Protecting Natural Enemies . . . . 294
+Predators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 295
+Vertebrates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 297
+Parasitoids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 297
+Pathogens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 298
+Protecting Pollinators and Beneficials . . . . . . . . . 299
+Related Information . . . . . . . . . . . . . . . . . . . . . . . . . . . 300
+15. Insects and Pests of Field Crops
+Soil Insects and Pests of Field Crops . . . . . . . . . 301
+Grub Species That impact Field Crops . . . . . . . . 303
+Corn Insects and Pests . . . . . . . . . . . . . . . . . . . . . . . . . . 311
+Below Ground Corn Pests . . . . . . . . . . . . . . . . . . . . . 312
+Above Ground Corn Pests . . . . . . . . . . . . . . . . . . . . . 312
+Stink Bugs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
+Ear Feeding Insects . . . . . . . . . . . . . . . . . . . . . . . . . . . 322
+Soybean Insects and Pests . . . . . . . . . . . . . . . . . . . . . . 326
+Below Ground Soybean Pests . . . . . . . . . . . . . . . . . 327
+Above Ground Soybean Pests . . . . . . . . . . . . . . . . . 327
+Assessing Defoliation in Soybeans . . . . . . . . . . . 333
+Pod-Feeding Insects . . . . . . . . . . . . . . . . . . . . . . . . . . . 334
+Forage Insects and Pests . . . . . . . . . . . . . . . . . . . . . . . . 336
+Below Ground Forage Pests . . . . . . . . . . . . . . . . . . . 337
+Above Ground Forage Pests . . . . . . . . . . . . . . . . . . . 338
+Cereal Insects and Pests . . . . . . . . . . . . . . . . . . . . . 343
+Below Ground Cereal Pests . . . . . . . . . . . . . . . . . . . 344
+Above Ground Cereal Pests . . . . . . . . . . . . . . . . . . . 344
+Head And Stem Cereal Pests . . . . . . . . . . . . . . . . . 347
+Dry Edible Bean Insects and Pests . . . . . . . . . . . 349
+Below-Ground Dry Edible Bean Pests . . . . . . . . . 349
+Above-Ground Dry Edible Bean Pests . . . . . . . . . 349
+Assessing Defoliation in Dry Edible Beans . . . . 350
+Pod-Feeding Insects . . . . . . . . . . . . . . . . . . . . . . . . . . . 351
+Canola Insects and Pests . . . . . . . . . . . . . . . . . . . . . 353
+Below Ground Canola Pests. 354
+Above Ground Canola Pests . . . . . . . . . . . . . . . . . . 354
+Pod-Feeding Insect . . . . . . . . . . . . . . . . . . . . . . . . . . . . 357
+Tarnished Plant Bug . . . . . . . . . . . . . . . . . . . . . . . . . . . 359
+xvii
+Contents
+16. Diseases of Field Crops
+General Seed Rots and Seedling Blights
+in Field Crops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 361
+Corn Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+Corn Seedling Diseases . . . . . . . . . . . . . . . . . . . . . . 362
+Corn Leaf Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+Soybean Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 371
+Seedling Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . 371
+Leaf and Stem Diseases . . . . . . . . . . . . . . . . . . . . . . 373
+Pod and Seed Diseases . . . . . . . . . . . . . . . . . . . . . . 380
+Forage Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 383
+Seedling Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . 383
+Leaf Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 386
+Cereal Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 387
+Fusarium Seedling Blight — Crown Rot . . . . . . . 388
+Leaf and Stem Diseases . . . . . . . . . . . . . . . . . . . . . . 389
+Head and Grain Diseases . . . . . . . . . . . . . . . . . . . . . 394
+Barley Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 398
+Oat Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+Edible Bean Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+Bacterial Blights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 401
+Canola Diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+Appendices
+Appendix A. Insect-Monitoring Equipment
+Supply Companies. 409
+Appendix B. Corn Nitrogen Rate Worksheet
+(Imperial) With Detailed
+Explanation . . . . . . . . . . . . . . . . . . . . . . . . . 410
+Appendix C. Accredited Soil-Testing Laboratories
+in Ontario . . . . . . . . . . . . . . . . . . . . . . . . . . . 412
+Appendix D. Feed-, Mould- and Mycotoxin-Testing
+Laboratories . . . . . . . . . . . . . . . . . . . . . . . . 413
+Appendix E. Soybean Cyst Nematode-Testing
+Laboratories . . . . . . . . . . . . . . . . . . . . . . . . 413
+Appendix F. Ontario Laboratories Offering
+Custom Seed Germination
+Testing. 414
+Appendix G. Neonicotinoid Regulations
+in Ontario . . . . . . . . . . . . . . . . . . . . . . . . . . . 415
+Appendix H. European Corn Borer Economic
+Threshold Calculations . . . . . . . . . . . . . 417
+Appendix I. Other Contacts . . . . . . . . . . . . . . . . . . . . . 418
+Appendix J. Row Length for a Partial Acre . . . . . . . 419
+Appendix K. Hula Hoop Method for Determining
+Plant and Pest Populations . . . . . . . . . 419
+Appendix L. Commercial Grain Seeding
+Rates, Test Weights and
+Moisture Contents . . . . . . . . . . . . . . . . . . 420
+Appendix M. The Metric System . . . . . . . . . . . . . . . . . 421
+Appendix N. Field Scouting Report . . . . . . . . . . . . . . 423
+Appendix O. Diagnostic Services . . . . . . . . . . . . . . . . 425
+Index
+xviii
+Agronomy Guide for Field Crops
+Tables
+1. Corn
+Table 1–1. Comparison of two tillage systems
+on grain corn yield . . . . . . . . . . . . . . . . . . . . 2
+Table 1–2. Impact of fall tillage systems on
+grain corn yield . . . . . . . . . . . . . . . . . . . . . . . 4
+Table 1–3. Fall strip-tillage for corn after
+winter wheat (straw removed) . . . . . . . . . 4
+Table 1–4. Grain corn yield response to
+three tillage systems . . . . . . . . . . . . . . . . . . 6
+Table 1–5. Effects of tillage systems on corn 
+yields following winter wheat . . . . . . . . . 6
+Table 1–6. Effect of wheat straw levels
+on no-till corn yields . . . . . . . . . . . . . . . . . . . 7
+Table 1–7. Approximate conversions between
+three systems of measuring heat
+accumulation in a growing season. 9
+Table 1–8. Recommended dates to switch from
+full-season hybrids across various
+heat unit zones . . . . . . . . . . . . . . . . . . . . . 13
+Table 1–9. Grain corn test weights and
+potential dockage . . . . . . . . . . . . . . . . . . . 13
+Table 1–10. Expected grain yield due to various
+planting dates . . . . . . . . . . . . . . . . . . . . . . 14
+Table 1–11. Seed spacing to achieve
+various populations . . . . . . . . . . . . . . . . . 14
+Table 1–12. Vegetative growth stages in corn . . . . 16
+Table 1–13. Reproductive growth stages in corn . . . 17
+Table 1–14. Comparative growth stages . . . . . . . . . . 17
+Table 1–15. Corn yield response to plant spacing
+and emergence variability . . . . . . . . . . . 18
+Table 1–16. Effect of planting speed on spacing
+standard deviation, population and
+corn yield . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Table 1–17. Expected grain yield due to various
+plant populations . . . . . . . . . . . . . . . . . . . . 20
+Table 1–18. Nitrogen guidelines based on spring
+nitrate-nitrogen (NO3-N) . . . . . . . . . . . . . . 22
+Table 1–19. Nitrogen guidelines based on
+pre-side-dress nitrate nitrogen
+(NO3-N) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Table 1–20. Phosphate (P2O5) guidelines
+for corn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Table 1–21. Potash (K2O) guidelines for corn . . . . 28
+Table 1–22. Average grain corn yield and profit
+response to broadcast and banded
+phosphate . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Table 1–23. Corn yield response to broadcast
+potash (K) applications with various
+starter fertilizer options . . . . . . . . . . . . . 29
+Table 1–24. Interpretation of plant analysis
+for corn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Table 1–25. Maximum suggested air 
+temperatures for drying corn
+of various end uses . . . . . . . . . . . . . . . . 33
+Table 1–26. Equilibrium moisture content for
+corn exposed to air . . . . . . . . . . . . . . . . . 34
+Table 1–27. Estimated risks to grain corn yield
+and quality from late-season
+frost damage . . . . . . . . . . . . . . . . . . . . . . . . 36
+Table 1–28. Estimated percentage corn grain
+yield loss due to defoliation at
+various growth stages . . . . . . . . . . . . . . . 38
+2. Soybeans
+Table 2–1. Soybean yield response under
+various tillage systems . . . . . . . . . . . . . . 41
+Table 2–2. Soybean yield response to spring
+minimal tillage . . . . . . . . . . . . . . . . . . . . . . 42
+Table 2–3. Effect of tillage and wheat residue
+management on soybean yields . . . . . 43
+Table 2–4. Soybean yield response to tillage
+and rotation . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Table 2–5. Soybean physiological maturity
+dates and days to maturity . . . . . . . . . . 44
+Table 2–6. Effect of planting date on yield . . . . . . 49
+Table 2–7. Yield of an adapted variety
+compared to a long-season
+variety when planted early . . . . . . . . . . 49
+Table 2–8. Row spacing vs. days to full
+canopy (May planting) . . . . . . . . . . . . . . . 51
+Table 2–9. Effect of row width on yield . . . . . . . . . 52
+Table 2–10. Seed drill vs. planter unit yields . . . . . 52
+Table 2–11. Soybean seeding rate guidelines . . . 53
+Table 2–12. Soybean plant stand and yield
+response to seed treatments1 . . . . . . 54
+Table 2–13. Expected yield of soybeans in
+optimum and reduced stands . . . . . . . 55
+Table 2–14. Vegetative growth stages
+of soybeans . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Table 2–15. Reproductive growth stages
+of soybeans . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Table 2–16. Phosphate (P2O5) guidelines
+for soybeans . . . . . . . . . . . . . . . . . . . . . . . . 60
+Table 2–17. Potash (K2O) guidelines
+for soybeans . . . . . . . . . . . . . . . . . . . . . . . . 61
+Table 2–18. Soybean yield response to
+spring application of fertilizer
+in low-testing soils . . . . . . . . . . . . . . . . . . 61
+xix
+Table 2–19. Interpretation of plant analysis
+for soybeans . . . . . . . . . . . . . . . . . . . . . . . . 62
+Table 2–20. Equilibrium moisture content
+for soybeans exposed to air
+(% wet basis) . . . . . . . . . . . . . . . . . . . . . . . . 65
+Table 2–21. Percent yield loss of indeterminate
+soybean at various levels of leaf
+area loss and growth stages . . . . . . . . 66
+3. Forages
+Table 3–1. Characteristics of perennial
+forage species grown in Ontario . . . . 71
+Table 3–2. Forage mixtures for stored feed
+and pasture . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Table 3–3. Characteristics of annual forage
+crops in Ontario . . . . . . . . . . . . . . . . . . . . . 81
+Table 3–4. Guidelines for seeding rates for
+legume and pure grass stands . . . . . . 83
+Table 3–5. General nitrogen guidelines
+— perennial forages . . . . . . . . . . . . . . . . 87
+Table 3–6. Phosphate (P2O5) guidelines
+for forages . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Table 3–7. Potash (K2O) guidelines
+for forages . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+Table 3–8. Interpretation of plant analysis
+for alfalfa. 90
+Table 3–9. Digestibility and protein of alfalfa
+and bromegrass at various stages
+of maturity . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+Table 3–10. Potential haymaking losses . . . . . . . . . 94
+Table 3–11. Storage moisture guidelines
+and approximate bale weights . . . . . . 95
+Table 3–12. Typical levels of silage
+fermentation end-products
+(dry matter basis) . . . . . . . . . . . . . . . . . . 102
+Table 3–13. Desirable alfalfa stand
+plant count . . . . . . . . . . . . . . . . . . . . . . . . . 108
+4. Cereals
+Table 4–1. Winter wheat yield response to
+tillage systems . . . . . . . . . . . . . . . . . . . . . 109
+Table 4–2. Frost seeding vs. seeding into
+dry soil of spring cereals . . . . . . . . . . . 110
+Table 4–3. Straw quantity vs. straw quality . . . . 112
+Table 4–4. Straw nutrients . . . . . . . . . . . . . . . . . . . . 113
+Table 4–5. Characteristics of various cereal
+market classes. 114
+Table 4–6. Determining yield potential
+for various plant stand counts . . . . . 121
+Table 4–7. Guidelines for cereal crop
+plant populations . . . . . . . . . . . . . . . . . . . 122
+Table 4–8. Calculating seeding rate by
+row width to achieve target
+plant density . . . . . . . . . . . . . . . . . . . . . . . 122
+Table 4–9. Calculating seeding rate by
+amount of seed to achieve target
+plant density . . . . . . . . . . . . . . . . . . . . . . 122
+Table 4–10. Management considerations
+for wheat following various crops
+in rotation . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Table 4–11. Response to plant growth
+regulators . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+Table 4–12. Fungicide timing response . . . . . . . . . 125
+Table 4–13. Nitrogen requirements for
+cereal crops . . . . . . . . . . . . . . . . . . . . . . . . 127
+Table 4–14. Nitrogen requirements for
+pastry wheat (most profitable
+N application) . . . . . . . . . . . . . . . . . . . . . . 128
+Table 4–15. Managing for increased protein . . . . 128
+Table 4–16. Fall-applied nitrogen . . . . . . . . . . . . . . . . 129
+Table 4–17. Nitrogen guidelines (most profitable
+rate) for spring barley based on
+nitrate-nitrogen soil tests . . . . . . . . . . 129
+Table 4–18. Yield loss associated with
+inaccurate nitrogen application
+patterns . . . . . . . . . . . . . . . . . . . . . . . . . . . . 130
+Table 4–19. UAN as a herbicide carrier . . . . . . . . . 130
+Table 4–20. Phosphate (P2O5) guidelines
+for cereals . . . . . . . . . . . . . . . . . . . . . . . . . 131
+Table 4–21. Potash (K2O) guidelines
+for cereals . . . . . . . . . . . . . . . . . . . . . . . . . 132
+Table 4–22. Corn row syndrome . . . . . . . . . . . . . . . . 133
+Table 4–23. Yield response to starter
+fertilizer . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+Table 4–24. Interpretation of plant analysis
+for cereal crops . . . . . . . . . . . . . . . . . . . . 135
+Table 4–25. Effect of different fan-speeds
+on wheat yield . . . . . . . . . . . . . . . . . . . . . 137
+Table 4–26. Suggested airflow for
+natural-air and low-temperature
+wheat drying . . . . . . . . . . . . . . . . . . . . . . . 138
+Table 4–27. Guidelines for maximum air
+temperatures for drying milling
+and seed wheat . . . . . . . . . . . . . . . . . . . . 139
+Table 4–28. Equilibrium moisture content
+for soft winter wheat exposed
+to air . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+5. Dry Edible Beans
+Table 5–1. Planting date guidelines . . . . . . . . . . . 145
+Table 5–2. Seeding rates for white and
+black beans . . . . . . . . . . . . . . . . . . . . . . . . 146
+Table 5–3. Coloured bean seeding rate . . . . . . . . 146
+Table 5–4. Vegetative and reproductive growth
+stages of dry edible beans . . . . . . . . . 149
+Table 5–5. Phosphate (P2O5) guidelines for
+dry edible beans . . . . . . . . . . . . . . . . . . . 150
+Table 5–6. Potash (K2O) guidelines
+for dry edible beans . . . . . . . . . . . . . . . . 150
+Table 5–7. Interpretation of plant analysis
+for dry edible beans . . . . . . . . . . . . . . . . 151
+xx
+Agronomy Guide for Field Crops
+6. Spring and Winter Canola
+Table 6–1. Canola seeding rate . . . . . . . . . . . . . . . 161
+Table 6–2. Approximate growing degree days
+to reach various stages of spring
+canola development . . . . . . . . . . . . . . . 163
+Table 6–3. Nitrogen guidelines for spring 
+canola . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+Table 6–4. Spring nitrogen guidelines
+(most profitable N application)
+for winter canola . . . . . . . . . . . . . . . . . . . 165
+Table 6–5. Phosphate (P2O5) guidelines
+for canola . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+Table 6–6. Potash (K2O) guidelines
+for canola . . . . . . . . . . . . . . . . . . . . . . . . . . 166
+Table 6–7. Interpretation of plant
+analysis for canola . . . . . . . . . . . . . . . . . 168
+Table 6–8. Percentage yield loss due to the
+destruction of branches during
+flowering in canola . . . . . . . . . . . . . . . . . 171
+7. Other Crops
+Table 7–1. Nitrogen requirements for 
+buckwheat . . . . . . . . . . . . . . . . . . . . . . . . . 174
+Table 7–2. Phosphate (P2O5) guidelines
+for buckwheat and flax . . . . . . . . . . . . . 175
+Table 7–3. Potash (K2O) Guidelines
+for buckwheat and flax . . . . . . . . . . . . . 175
+Table 7–4. Range of nutrient removal rates of
+fall-harvested and over-wintered
+miscanthus varieties in Ontario
+(Engbers 2012) and compared to
+literature values . . . . . . . . . . . . . . . . . . . . 182
+Table 7–5. Phosphate (P2O5) guidelines
+for sunflowers . . . . . . . . . . . . . . . . . . . . . . 186
+Table 7–6. Potash (K2O) guidelines
+for sunflowers . . . . . . . . . . . . . . . . . . . . . . 186
+8. Managing for Healthy Soils
+Table 8–1. Soybean yield response to tillage
+and rotation . . . . . . . . . . . . . . . . . . . . . . . . 193
+Table 8–2. Corn yield response to crop
+rotation and tillage . . . . . . . . . . . . . . . . . 193
+Table 8–3. Matching cover crop choices
+to function . . . . . . . . . . . . . . . . . . . . . . . . . 196
+Table 8–4. Choosing a cover crop . . . . . . . . . . . . . 196
+Table 8–5. Characteristics of cover crops
+grown in Ontario . . . . . . . . . . . . . . . . . . . . 197
+Table 8–6. Organic matter level rating
+of different soil textures . . . . . . . . . . . . 202
+Table 8–7. Effects of 11 years of
+manure additions on organic
+matter levels . . . . . . . . . . . . . . . . . . . . . . . 202
+Table 8–8. Carbon:Nitrogen ratio
+of various organic materials . . . . . . . . 204
+Table 8–9. Types of soil compaction . . . . . . . . . . . 207
+9. Soil Fertility and Nutrient Use
+Table 9–1. OMAFRA-accredited soil tests . . . . . . 215
+Table 9–2. Sampling guidelines to account
+for banded nutrients . . . . . . . . . . . . . . . . 217
+Table 9–3. Sensors used to define
+management zones and
+parameters measured . . . . . . . . . . . . . 218
+Table 9–4. Guidelines for lime application
+to Ontario crops . . . . . . . . . . . . . . . . . . . . 221
+Table 9–5. Lime requirements to correct
+soil acidity based on soil and
+buffer pH . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+Table 9–6. Example calculation of the
+fineness rating of a limestone . . . . . . 222
+Table 9–7. Manganese soil test
+interpretation . . . . . . . . . . . . . . . . . . . . . . 226
+Table 9–8. Zinc soil test interpretation . . . . . . . . 226
+Table 9–9. Adjustment of nitrogen requirement,
+where crops containing legumes
+are plowed down . . . . . . . . . . . . . . . . . . . 227
+Table 9–10. Typical amounts of total and
+available nitrogen, phosphate
+and potash from various organic
+nutrient sources . . . . . . . . . . . . . . . . . . . 228
+Table 9–11. Approximate ammonium-nitrogen
+as a percentage of total nitrogen
+in various manure types . . . . . . . . . . . . 231
+Table 9–12. Estimated proportion (factor) of
+ammonium nitrogen from manure
+retained in year of application . . . . . 231
+Table 9–13. Estimate of available nitrogen from
+late summer- and fall-applied
+manure, as a proportion (factor)
+of total N applied . . . . . . . . . . . . . . . . . . 233
+Table 9–14. Interpreting manure analysis
+results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 234
+Table 9–15. Average nutrient (N, P2O5, K2O)
+removal by common field crops . . . . 237
+Table 9–16. Calibrating manure application
+equipment . . . . . . . . . . . . . . . . . . . . . . . . . 242
+Table 9–17. Densities of different types
+of manure . . . . . . . . . . . . . . . . . . . . . . . . . . 242
+Table 9–18. Fertilizer materials — primary and
+secondary nutrients . . . . . . . . . . . . . . . . 243
+Table 9–19. Fertilizer materials — secondary
+and micronutrients . . . . . . . . . . . . . . . . . 244
+Table 9–20. Densities of common liquid
+fertilizers . . . . . . . . . . . . . . . . . . . . . . . . . . . 244
+Table 9–21. Soil conductivity reading
+interpretation . . . . . . . . . . . . . . . . . . . . . . 245
+Table 9–22. Maximum safe rates of nutrients
+in fertilizer . . . . . . . . . . . . . . . . . . . . . . . . . 247
+xxi
+Tables
+10. Field Scouting
+Table 10–1. Number of suggested sampling
+locations based on field size
+and pest . . . . . . . . . . . . . . . . . . . . . . . . . . . 252
+Table 10–2. Row length for a partial acre . . . . . . . 253
+Table 10–3. Hula hoop method for determining
+plant and pest populations . . . . . . . . 253
+Table 10–4. Daily crop heat unit accumulations
+based on maximum and minimum
+temperatures . . . . . . . . . . . . . . . . . . . . . . 256
+12. On-Farm Stored Grain Management
+Table 12–1. Time required for aeration front
+to move through grain . . . . . . . . . . . . . . 266
+Table 12–2. Insect management strategies
+for farm-stored grain . . . . . . . . . . . . . . . . 269
+13. Weed Control
+Table 13–1. Relative ranking of cover
+crops and their ability to
+suppress weeds . . . . . . . . . . . . . . . . . . . 273
+Table 13–2. Weed density in the spring
+following different summer-seeded
+cover crops . . . . . . . . . . . . . . . . . . . . . . . . 274
+Table 13–3. Critical weed-free periods for
+common Ontario field crops . . . . . . . . 277
+Table 13–4. Corn and soybean yield losses
+from weeds under adequate
+soil moisture vs. inadequate
+soil moisture . . . . . . . . . . . . . . . . . . . . . . . 277
+Table 13–5. Top 30 most frequently found
+weeds in soybean, winter wheat
+and corn, according to a survey
+of Ontario Certified Crop Advisors
+(2014) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 278
+Table 13–6. Soybean and corn yield
+losses due to weeds at
+known populations . . . . . . . . . . . . . . . . . 279
+Table 13–7. Weed populations confirmed
+resistant to herbicide groups in
+Ontario (January 2016) . . . . . . . . . . . . . 280
+15. Insects and Pests of Field Crops
+Table 15–1. Corn insect and pest symptoms
+in the field . . . . . . . . . . . . . . . . . . . . . . . . . 311
+Table 15–2. Iowa State node injury scale . . . . . . . 321
+Table 15–3. Soybean insect and pest symptoms
+in the field . . . . . . . . . . . . . . . . . . . . . . . . . . . 326
+Table 15–4. Standard damage thresholds
+for soybean insect defoliation . . . . . . 333
+Table 15–5. Forage insect and pest symptoms
+in the field . . . . . . . . . . . . . . . . . . . . . . . . . 336
+Table 15–6. Thresholds for potato leafhopper
+on alfalfa . . . . . . . . . . . . . . . . . . . . . . . . . . . 342
+Table 15–7. Cereal insect and pest symptoms
+in the field . . . . . . . . . . . . . . . . . . . . . . . . . 343
+Table 15–8. Dry edible bean insect and pest
+symptoms in the field . 348
+Table 15–9. Thresholds for potato leafhopper
+on dry edible beans. . . . . . . . . . . . . . . . 349
+Table 15–10. Defoliation threshold for
+dry beans . . . . . . . . . . . . . . . . . . . . . . . . . . 351
+Table 15–11. Canola insect and pest symptoms
+in the field. . . . . . . . . . . . . . . . . . . . . . . . . . 354
+16. Diseases of Field Crops
+Table 16–1. Potential risk of yield loss for various
+SCN population levels (based on
+soil test results) . . . . . . . . . . . . . . . . . . . . . 376
+Table 16–2. Appearance of symptoms for brown
+stem rot, stem canker and sudden
+death syndrome on soybeans . . . . . . 378
+Table 16–3. Comparison of common rusts
+occurring on small grains
+in Ontario . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+Table 16–4. Comparison of cereal viruses
+(BYDV, SBWMV and WSSMV) . . . . . . . 393
+xxii
+Agronomy Guide for Field Crops
+Figures
+Introduction
+Figure Intro–1. An example of an Ontario scouting
+and record keeping smartphone app . . xii
+1. Corn
+Figure 1–1. Crop heat units (CHU-M1) available
+for corn production . . . . . . . . . . . . . . . . . . 10
+Figure 1–2. Nitrogen uptake at various stages
+of corn development . . . . . . . . . . . . . . . . 26
+Figure 1–3. Corn scouting calendar . . . . . . . . . . . . . . 35
+2. Soybeans
+Figure 2–1. Ontario soybean relative
+maturity map . . . . . . . . . . . . . . . . . . . . . . . . 45
+Figure 2–2. The relationship between seed
+vigour, viability and deterioration . . . . 47
+Figure 2–3. Soybean yield response to
+seeding rates . . . . . . . . . . . . . . . . . . . . . . . 52
+Figure 2–4. Reduced stand in field . . . . . . . . . . . . . . 57
+Figure 2–5. Soybean scouting calendar . . . . . . . . . . 67
+3. Forages
+Figure 3–1. Soil drainage requirements
+of forage species . . . . . . . . . . . . . . . . . . . . 75
+Figure 3–2. Estimated hay and haylage
+harvest and storage losses . . . . . . . . . 93
+Figure 3–3. Forage scouting calendar . . . . . . . . . . . 104
+Figure 3–4. Start of the critical fall harvest
+period for alfalfa . . . . . . . . . . . . . . . . . . . 106
+Figure 3–5. Alfalfa yield potential at
+various stem count densities . . . . . . . 108
+4. Cereals
+Figure 4–1. Days to emergence at various
+seeding depths . . . . . . . . . . . . . . . . . . . . . 117
+Figure 4–2. Cereal growth stages . . . . . . . . . . . . . . . 118
+Figure 4–3. Provincial winter wheat yield
+for 1981–2014 . . . . . . . . . . . . . . . . . . . . 119
+Figure 4–4. Optimum date to seed winter
+wheat across Ontario . . . . . . . . . . . . . . 120
+Figure 4–5. Suggested nozzle orientation of
+a forward-and-back double nozzle
+assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+Figure 4–6. Nitrogen response with and
+without fungicides . . . . . . . . . . . . . . . . . . 126
+Figure 4–7. Sulphur response in wheat . . . . . . . . . 134
+Figure 4–8. Cereal crops scouting calendar . . . . . 141
+5. Dry Edible Beans
+Figure 5–1. Dry edible bean scouting
+calendar . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+6. Spring and Winter Canola
+Figure 6–1. Canola scouting calendar . . . . . . . . . . . 170
+8. Managing for Healthy Soils
+Figure 8–1. Yield benefits of crop rotation
+vs. continuous corn in years
+with above and below average
+precipitation . . . . . . . . . . . . . . . . . . . . . . . . 194
+Figure 8–2. Impact of long-term crop rotation
+on soil carbon content. . . . . . . . . . . . . 195
+Figure 8–3. Corn yield response to soil N
+and soil health . . . . . . . . . . . . . . . . . . . . . 195
+Figure 8–4. The downward spiral of soil
+degradation . . . . . . . . . . . . . . . . . . . . . . . . 205
+Figure 8–5. Soil organic matter pools . . . . . . . . . . . 210
+Figure 8–6. Horizon variability in a soil
+profile . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+9. Soil Fertility and Nutrient Use
+Figure 9–1. Infra-red image processed
+into green difference vegetation
+index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+Figure 9–2. Topographic map with
+sampling zones created
+from elevation data . . . . . . . . . . . . . . . . 219
+10. Field Scouting
+Figure 10–1. Scouting patterns . . . . . . . . . . . . . . . . . . 252
+Figure 10–2. Example field map using Ontario
+Ag Maps (ontario.ca/agmaps) . . . . . . 257
+11. Precision Agriculture
+Figure 11–1. Real-time Variable Rate Nitrogen
+application using optical sensors
+mounted on a y-drop fertilizer
+applicator. GreenseekerTM sensors
+circled in red on the boom for both
+wheat and corn . . . . . . . . . . . . . . . . . . . . . 261
+Figure 11–2. Screen captures comparing strips
+to blocks with nitrogen applied
+using variable rate technology . . . . . . 263
+xxiii
+12. On-Farm Stored Grain Management
+Figure 12–1. Home-built manometer . . . . . . . . . . . . . 265
+13. Weed Control
+Figure 13–1. Effect of nitrogen fertilizer application
+method in four consecutive years
+on the weed seed bank at the
+conclusion of the four-year
+experiment . . . . . . . . . . . . . . . . . . . . . . . . . 274
+Figure 13–2. Typical yield losses of different
+field crops due to weed
+competition . . . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+15. Insects and Pests of Field Crops
+Figure 15–1. Life cycles and feeding periods
+for common grubs (European
+chafer, June beetle, Japanese
+beetle) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 302
+Figure 15–2. Defoliation chart for soybean
+leaf-feeding insects . . . . . . . . . . . . . . . . 333
+Figure 15–3. Yield loss vs. defoliation of
+navy beans . . . . . . . . . . . . . . . . . . . . . . . . 350
+xxiv
+Agronomy Guide for Field Crops
+1. Corn
+Corn is widely grown across southern Ontario. Over
+the years 2004–2015, grain corn acreage averaged
+769,000 ha (1.9 million acres) with an average yield
+of 9.53 t/ha (152 bu/acre). An additional 118,000 ha
+(0.3 million acres) is grown as corn silage for livestock
+feed. Grain corn produced within the province is used
+for both feed (55%) and industrial (45%) uses.
+Tillage
+To successfully produce corn in Ontario, it is
+important to consider factors such as soil texture and
+crop rotation. Factors that will influence tillage options
+include risk of erosion, availability of equipment and
+labour and impact on soil health. Soils in Ontario
+are usually saturated in early spring, and quick
+dry-down is necessary to ensure timely corn planting.
+Appropriate use of tillage can increase spring soil
+dry-down rates by loosening soil. This improves
+drainage and/or reduces residue cover, which
+increases rates of soil water evaporation.
+The guiding principle behind conservation tillage
+and soil erosion reduction in corn production
+should be to maintain 30% of the soil surface
+covered with crop residue, or living cover,
+throughout the entire year.
+Soil Texture and Drainage
+In Ontario, coarse-textured soils (e.g., sand, loamy
+or sandy loams) that have good internal drainage
+characteristics show little yield response to tillage
+(drainage classification: rapid or well). Even for crops
+that leave large amounts of residue cover, such as grain
+corn or cereals, there is often little response to tillage.
+On heavy-textured soils with relatively slow internal
+drainage, tillage can significantly increase the rate of
+soil drying and warming. This increases the possibility
+for timely planting and rapid uniform emergence.
+Table 1–1, Comparison of two tillage systems on grain
+corn yield, provides a summary of Ontario tillage
+research for corn, following either grain corn or cereals
+grouped according to soil texture. Tillage increased
+yield about 70% of the time following cereals, grain
+corn or soybeans on the medium- and fine-textured
+sites with an average 5%–7% yield increase.
+Crop Rotation
+A good crop rotation can replace a significant amount
+of tillage. Table 1–1 summarizes Ontario tillage
+research, conducted on medium- and fine-textured
+soils, grouped by previous crop. Generally, there is:
+• Little corn yield response to tillage following forages.
+Including forages in crop rotations improves soil
+structure and may eliminate the need for tillage to
+improve seedbed tilth.
+• Relatively low yield response to tillage following
+soybeans when compared to either cereals or grain
+corn, which is partially due to lower crop-residue
+levels following soybeans in no-till systems.
+• High residue levels can reduce early-season soil
+temperature, resulting in delayed planting, slower
+corn growth and lower yield potential. Tillage
+increases corn yield about 75% of the time when
+following cereals or grain corn on medium- or finetextured soils, with yield increases averaging 5%–9%.
+Other Reasons for Tillage
+There are other reasons to perform tillage for
+corn production in addition to increasing soil
+dry-down rates:
+• improved seedbed uniformity, resulting in more
+consistent planter performance and faster, more
+uniform corn emergence
+• incorporation of surface-applied fertilizer or manure,
+resulting in increased nutrient availability and/or
+use efficiency
+• termination and/or incorporation of weed or crop
+residue that can serve as hosts to increase populations
+of insect pests
+• alleviation of soil compaction
+1
+Table 1–1. Comparison of two tillage systems on grain corn yield
+Comparison Type # Sites No-Till Mouldboard
+Yield
+Response
+Mouldboard
+Win: Loss
+Soil texture1 coarse 11 8.22 t/ha
+(131 bu/acre)
+8.16 t/ha
+(130 bu/acre)
+–0.9% 45:55
+medium 79 8.66 t/ha
+(138 bu/acre)
+9.16 t/ha
+(146 bu/acre)
+5.6% 72:28
+fine 42 8.60 t/ha
+(137 bu/acre)
+9.16 t/ha
+(146 bu/acre)
+6.5% 71:29
+Previous crop2 forages 13 8.84 t/ha
+(141 bu/acre)
+8.91 t/ha
+(142 bu/acre)
+0.7% 54:46
+soybeans 50 8.98 t/ha
+(143 bu/acre)
+9.04 t/ha
+(144 bu/acre)
+0.9% 56:44
+cereals
+(straw-baled)
+75 9.23 t/ha
+(147 bu/acre)
+9.60 t/ha
+(153 bu/acre)
+4.1% 71:29
+grain corn 49 7.72 t/ha
+(123 bu/acre)
+8.41 t/ha
+(134 bu/acre)
+9.1% 76:24
+Source: Tillage Ontario Database, 2008 (www.tillageontario.com).
+1 Trials conducted following cereals (straw-baled) or grain corn (1982–2007).
+2 Trials conducted on medium- or fine-textured soils following various crops (1982–2007).
+Conventional Tillage
+Conventional tillage for corn in Ontario consists of fall
+mouldboard plowing followed in spring by secondary
+tillage, usually with a field cultivator or tandem disc.
+Most mouldboard plowing is targeted to an operating
+depth of 15 cm (6 in.); plowing deeper often results
+in unwanted mixing of subsoil into the seedbed. The
+more uniform and level a field is left after fall plowing,
+the greater the opportunities to reduce secondary tillage
+costs and improve planter performance. The lack of
+surface residue in conventional tillage exposes fields to
+greater erosion risks from water and wind. On complex
+slopes, tillage can be responsible for causing large
+quantities of topsoil to move to lower slope positions.
+Fall Mulch Tillage
+The chisel plow, disc-ripper and discs (either tandem
+or offset) have been the most widely adopted fall
+mulch tillage tools in Ontario. Tillage research trials
+conducted across Ontario over the past 20 years have
+generally shown that disking often resulted in more
+favourable soil conditions and higher corn yields than
+chisel plowing. Table 1–2, Impact of fall tillage systems
+on grain corn yield summarizes the corn yield data from
+these sites.
+Chisel plowing with twisted shovel teeth may leave
+the soil quite ridged. This can lead to extra costs in
+secondary tillage (more passes), uneven seedbeds and
+occasionally excessive soil drying. Using sweep teeth on
+all or part of the chisel plow overcomes some of these
+problems. Adding a levelling bar or harrows to the rear
+of the chisel plow, or timely secondary tillage in the
+spring can also avoid this. The same approach should
+be considered with any fall mulch tillage operation.
+Leaving the soil surface level in the fall allows for
+single-pass corn planting (no secondary tillage) to
+become a viable option in the spring. This is a good
+technique for reducing tillage costs and improving soil
+structure. Soil surfaces are often left too rough in the
+fall so that multiple passes of spring tillage are required
+to make the field fit for planting.
+2
+Agronomy Guide for Field Crops
+Fall mulch tillage systems should leave the soil
+surface smooth enough that spring secondary
+tillage can be minimized.
+Vertical Tillage
+Vertical tillage is used to reduce any pushing or
+smearing action that may be caused by tillage tools
+that engage the ground in the horizontal plane. Many
+vertical tillage tools are designed to break apart residue
+into more manageable pieces and distribute crop
+residue, while causing some soil fracturing and mixing
+of soil with residue at the surface (Photo 1–1). Classic
+vertical tillage tools include a range of implements
+from shanks (parabolic or straight) that generally are
+without sweeps or wings, to straight or wavy coulters
+that run parallel to the direction of travel. In reality,
+quite a number of tillage tools embrace the concept of
+“vertical” tillage but have employed shallow concavity
+discs, low profile sweeps and extensive harrows to
+provide some additional soil disturbance, while
+attempting to remain true to the idea of tillage
+without significant inversion and soil smearing.
+Photo 1–1. Vertical tillage tools are designed to
+manage and mix residue with light soil fractioning.
+The most effective uses of vertical tillage tools for
+corn production fall into three categories:
+1) Effective secondary tillage where mulch tillage
+has taken place the previous fall.
+2) Single pass residue management and seedbed
+preparation for corn in lower residue situations
+(e.g., after soybeans or winter wheat where straw
+is removed).
+3) Residue management and shallow tillage in
+corn-after-corn rotations where vertical tillage may
+occur both in the fall and then again in the spring.
+Spring Mulch Tillage
+The best practice for reducing erosion and input costs
+is to eliminate fall tillage. Producers working on finetextured soils where crop residues are high following
+corn, wheat or other crops may be apprehensive about
+leaving soils untouched in the fall. However, following
+soybeans, there is little justification for doing fall tillage
+on most fields in Ontario. Table 1–2, Impact of fall
+tillage on grain corn yield, illustrates that even on finely
+textured soils, spring tillage alone (two passes of a field
+cultivator) was generally sufficient when corn followed
+soybeans in the rotation. Other demonstration trials
+established on medium- and coarse-textured soils have
+shown the same results. Producer experience with
+spring mulch tillage systems has shown that working
+undisturbed soils in the spring obtained better results
+when using high-clearance tines, narrow teeth and/or
+when packers or rollers were used in conjunction with
+the field cultivator.
+When corn follows soybeans, systems that
+involve more than spring cultivation do not
+produce enough extra corn to pay for the fall
+tillage operation.
+3
+ 1. Corn
+Table 1–2. Impact of fall tillage systems on grain corn yield
+Mouldboard and chisel plots received spring secondary tillage; fall tandem disc-only plots were planted directly in the spring without any
+secondary tillage.
+Location County Soil Previous Crop
+No. of
+years
+Tillage Systems
+Mouldboard Chisel
+Fall Tandem
+Disc Only
+Alvinston Lambton clay soybeans 3 5.96 t/ha
+ (95 bu/acre)
+5.39 t/ha
+(86 bu/acre)
+5.71 t/ha
+(91 bu/acre)
+Fingal Elgin silty clay loam soybeans 3 9.97 t/ha
+(159 bu/acre)
+9.66 t/ha
+(154 bu/acre)
+9.66 t/ha
+(154 bu/acre)
+Centralia Huron silt loam wheat, straw-baled 3 9.16 t/ha
+(146 bu/acre)
+8.72 t/ha
+(139 bu/acre)
+8.84 t/ha
+(141 bu/acre)
+Wyoming Lambton silty clay loam wheat, straw-baled 3 9.97 t/ha
+(159 bu/acre)
+9.72 t/ha
+(155 bu/acre)
+9.85 t/ha
+(157 bu/acre)
+Average 8.78 t/ha
+(140 bu/acre)
+8.41 t/ha
+(134 bu/acre)
+8.53 t/ha
+(136 bu/acre)
+Source: T. Vyn, K. Janovicek, D. Hooker and G. Opuku, University of Guelph.
+Fall Strip Tillage
+Performing fall tillage confined to narrow zones that
+correspond to next year’s corn rows has received
+considerable attention in the past few years. The
+strips of soil are loosened, generally off-set from the
+previous row, cleared of residue and often somewhat
+elevated, while leaving the rest of the field covered with
+protective crop residue. The next spring, the strips are
+drier, less dense and more suited to “no-till” planting.
+Table 1–3, Fall strip-tillage for corn after winter wheat
+(straw removed), summarizes Ontario research comparing
+a trans-till zone tillage tool to conventional and no-till
+Table 1–3. Fall strip-tillage for corn after
+winter wheat (straw removed)
+Tillage
+System
+Soil
+Moisture
+in Early
+May
+Yield
+FineTextured Soil
+MediumTextured Soil
+Fall
+mouldboard
+23.3% 9.97 t/ha
+(159 bu/acre)
+9.22 t/ha
+(147 bu/acre)
+Fall zone-till 25.6% 9.97 t/ha
+(159 bu/acre)
+8.72 t/ha
+(139 bu/acre)
+No-till 29.8% 9.35 t/ha
+(149 bu/acre)
+8.47 t/ha
+(135 bu/acre)
+Source: T.J. Vyn, 1997, University of Guelph.
+systems in winter wheat stubble. This data indicates
+that on fine-textured soils, strip-tillage in the fall
+generally produced higher yields than no-till systems.
+Only at the Wyoming, ON location did fall strip till
+yields equal those obtained with the conventional
+mouldboard system. Subsequent research has
+supported the observations shown in Table 1–3, that
+on fine-textured soils following wheat, fall strip-tillage
+generally resulted in higher corn yields than no-till and
+equal yields to those of conventional tillage systems.
+Research results have not consistently shown a yield
+advantage for fall strip-tillage systems over no-till on
+medium-textured soils or when following soybeans.
+Early spring moisture measurements on the same
+tillage plots generally showed that fall strip-tilled zones
+were consistently drier in early May compared to the
+undisturbed no-till plots (Table 1–3). Yield responses
+in side-by-side trials have not always indicated a
+benefit to fall strip-tillage, but producers with large
+acreage, poorly draining soils or high surface residues
+may gain a consistent benefit from strip-tillage in
+terms of planting timeliness, emergence uniformity
+and early corn growth. Performing secondary spring
+strip-tillage in fall strip-tillage zones has increased
+yields in instances where fall strip-tillage yields are less
+than those in conventional tillage systems.
+Strip-tillage systems also provide an opportunity
+to band fertilizers that in a no-till system must be
+broadcast. Applying fertilizer using the strip-tillage
+system may also replace the need to apply banded
+4
+Agronomy Guide for Field Crops
+starter fertilizers through the planter. Fall banding
+of phosphorus and potassium in strip-tillage systems
+can produce higher yields than when similar rates of
+fertilizer were broadcast in no-till systems. However,
+corn yields from using strip-tillage systems to bandapply phosphorus (P) and/or potassium (K) in the fall
+have generally been lower than when P and K have
+been applied through the planter. This is especially
+evident when P and K soil fertility levels were medium
+or low.
+Spring Strip Tillage
+Spring strip tillage offers an opportunity to prepare
+fine, residue free seedbeds in which the corn planter
+can operate. Most spring strip tillage operations are
+restricted to the lighter textured soils, though in some
+cases well drained, medium textured soils are suitable
+for this one pass tillage option. The spring strip tillage
+operation usually precedes the planter by no more than
+6–12 hours in order to prevent the seed zone from
+excessively drying out. Spring strip tillage has also been
+used as a technique for applying all or part of the corn
+crop’s nitrogen (N), P and K requirements. To avoid
+seed or seedling burn from fertilizer placed in the seed
+zone three approaches can be taken:
+1. Reduce the amount of fertilizer to rates that
+are similar to the planter banded safe rates, see
+Chapter 9, Table 9–22, Maximum safe rates of
+nutrients in fertilizer.
+2. Disperse the fertilizer throughout the strip to
+avoid any concentrated zones.
+3. Use fertilizer products that are less likely to
+cause salt or ammonia injury (i.e., coated
+urea). Spring strip tillage systems that include a
+fertilizer application option can reduce the cost
+and complexity of a typical conservation tillage
+corn planter (e.g., no coulters or row cleaners are
+required, reduced down pressure requirement and
+the elimination of dry fertilizer).
+From a soil conservation perspective, if implemented
+up and down the slope, spring strip-tillage also offers
+the advantage of eliminating the presence of fall strips
+that can potentially funnel water and be susceptible to
+erosion. Global Positioning Systems (GPS) can further
+add to the soil erosion controlling benefits of strip
+tillage (fall or spring) if the strips run on the contour
+of sloping fields (Photo 1–2).
+Deep Tillage
+Deep tillage has increased due to heavier axle loads of
+farm machinery and the general concern that soils have
+become more compacted. The main benefit of using
+deep tillage is the elimination of compacted sub-soil
+layers and/or tillage pans. Deep tillage will promote
+rapid and deep root growth and improve drainage.
+However, in Ontario, sub-soils that are loosened using
+deep tillage are often easily re-compacted by wheel
+traffic. Moreover, it is possible that deep-tilled soils
+receiving wheel traffic will end up with poorer drainage
+and less favourable root growth. This occurs because
+deep tillage often destroys the natural pores created by
+worms or previous crop roots.
+Photo 1–2. Strip tillage on the contour with GPS can
+aid in soil erosion control.
+In Ontario, use of the disk ripper to perform
+deep, 30–35 cm (12–14 in.), tillage has increased
+significantly. Table 1–4, Grain corn yield response to
+three tillage systems, summarizes the results of a study
+that evaluated corn yield response to deep tillage using
+a disk ripper in medium-textured soils. On these
+productive soils with little evidence of severe subsoil
+compaction, there was little yield advantage and no
+economic benefit over a fall strip-tillage system where
+soils were tilled at about half the depth. Following
+wheat, both the disk ripper and fall strip-tillage
+systems produced yields that were 5% higher than
+no-till, but all of the yield response from tillage could
+be obtained using a fall strip-tillage system with a
+tillage depth of about half that of the disk ripper. Some
+producers have claimed benefits from deep tillage on
+areas with poor drainage or severe soil compaction
+(e.g., headlands). The need for deep tillage in Ontario
+is often only associated with fields or areas of fields
+with severe drainage limitations or soil compaction.
+5
+ 1. Corn
+Table 1–4. Grain corn yield response to
+three tillage systems
+Trials were conducted on medium- (loam or silt loam) textured
+soils following soybeans (4 sites) and winter wheat (8 sites)
+(2002–05).
+Tillage Soybeans Wheat
+Fall disk ripper
+30–35 cm (12–14 in.)
+9.73 t/ha
+(155 bu/acre)
+9.73 t/ha
+(155 bu/acre)
+Fall strip-tillage
+15–20 cm (6–8 in.)
+9.48 t/ha
+(151 bu/acre)
+9.73 t/ha
+(155 bu/acre)
+No-till 9.54 t/ha
+(152 bu/acre)
+9.29 t/ha
+(148 bu/acre)
+Source: Ontario Tillage Database, 2008 (www.tillageontario.com)
+The strip-tillage system has also been presented as
+an opportunity for reducing compaction and/or
+improving drainage by conducting deep tillage. In
+some cases, it has been suggested to till as deep as
+30–35 cm (12–14 in.). Researchers tested deep
+in-row ripping at sites near Granton and Ridgetown.
+Table 1–5, Effects of tillage systems on corn yields
+following winter wheat, illustrates that deep loosening
+either provided no yield benefit or not enough to
+pay for the cost of the deep tillage operation. The
+advantage of using a strip-tillage system to perform
+deep tillage is that wheel traffic does not occur on the
+deep tilled strips until the next harvest. This allows
+extra time for the soil to stabilize before it is exposed
+to wheel traffic again.
+Table 1–5. Effects of tillage systems on corn yields
+following winter wheat
+Tillage System
+Granton
+(loam–clay loam
+soil)
+Ridgetown
+(clay loam
+soil)
+Fall mouldboard 11.35 t/ha
+(181 bu/acre)
+7.78 t/ha
+(124 bu/acre)
+Deep fall zone-till
+30 cm (14 in.)
+10.79 t/ha
+(172 bu/acre)
+8.15 t/ha
+(130 bu/acre)
+No-till (3-coulters) 10.73 t/ha
+(171 bu/acre)
+7.65 t/ha
+(122 bu/acre)
+No-till (row
+cleaners)
+10.85 t/ha
+(173 bu/acre)
+7.78 t/ha
+(124 bu/acre)
+Source: T. Vyn, B. Deen, K. Janovicek, Univ. of Guelph, D.
+Young, Univ. of Guelph, Ridgetown Campus (1998–2000).
+No-Till Systems
+In no-till systems, tillage is not used to prepare a
+seedbed. Minimal soil loosening in a narrow band
+immediately ahead of the seed opener is performed
+by planter-mounted coulters and/or residue clearing
+devices. Successful no-till corn production is partially
+dependent on effective use of field management
+strategies which may include alternative production
+practices that compensate for what tillage provides in
+other systems. For successful no-till corn production,
+the following issues must be carefully addressed:
+• soil drainage
+• crop rotation
+• residue management
+• weed control
+• disease/insect management
+• fertilizer placement
+• soil compaction
+Soil Drainage
+Soils experience slower spring drying rates in no-till
+systems due to the lack of soil loosening and residue
+incorporation associated with tillage. This can delay
+planting and possibly decrease the number of days
+available for timely planting. Effective tile drainage is
+necessary for many Ontario soils to ensure a reasonable
+opportunity for timely no-till corn planting. Good
+drainage also helps to provide a favourable seedbed
+environment for rapid, deep root growth. Producers on
+fine-textured soils often discover that successful no-till
+is very difficult in fields that are not systematically tile
+drained. These fine-textured fields with inadequate tile
+drainage will often require some type of fall tillage to
+maximize yield potential.
+Crop Rotation
+In Ontario, no-till corn generally produces similar
+yields to tilled systems when following crops that
+produce low residues, such as soybeans, dry edible
+beans or forages harvested as hay or haylage. For soils
+with relatively slow internal drainage, increasing the
+amount of surface residue cover can slow soil drying,
+and delay the opportunity for timely planting and
+conditions that promote fast, deep, early-season root
+growth. Improved soil structure and higher earthworm
+activity associated with soils following forages may
+contribute to the success of no-till corn production
+following forages.
+6
+Agronomy Guide for Field Crops
+No-till corn grown on medium- and fine-textured soils
+that follow crops producing high residue often struggle
+to achieve optimum yields, regardless of careful
+management for other parts of the production system.
+If the choice is made to maintain residue cover
+following high residue crops such as grain corn or
+cereals, some tillage will likely be required. This will
+increase the chance of timely planting and maximum
+yield potential.
+Residue Management
+Reducing tillage costs, improving net profits and
+enhancing long-term soil health requires decisions
+about how best to handle crop residues, particularly
+wheat straw. Where no-till or reduced till corn is
+to follow wheat, remove the wheat straw from the
+field. Table 1–6, Effect of wheat straw levels on no-till
+corn yields, summarizes corn yields from tillage trials
+where three different levels of straw were left on the
+field and corn was no-till planted the following year.
+Removing straw from fields, especially in high-yielding
+wheat crops and on heavier-textured soils, increased
+the potential for no-till corn yields to equal those of
+mouldboard plowing.
+Table 1–6. Effect of wheat straw levels
+on no-till corn yields
+Tillage System/Straw Level1,2 Yield
+No-till/
+all straw and stubble remain
+9.16 t/ha
+(146 bu/acre)
+No-till/
+straw baled but stubble remains
+9.35 t/ha
+(149 bu/acre)
+No-till/
+straw baled and stubble cut and removed
+9.91 t/ha
+(158 bu/acre)
+Mouldboard/
+straw baled but stubble remains
+9.97 t/ha
+ (159 bu/acre)
+Source: T. Vyn, G. Opuku and C. Swanton, University of Guelph.
+1 Average 1994–96. Wyoming, Ontario.
+2 Stubble heights were approximately 25–30 cm (10–12 in.)
+except for plots where stubble was cut and removed.
+Where straw removal is not an option, uniform
+spreading of the straw and chaff is critical for
+no-till or reduced tillage success in corn. Even where
+straw is to be left in the windrow, it is important
+to spread the chaff as widely and evenly as possible
+during combining. In cool, wet springs, the lower
+soil temperatures, poorer growth and potential slug
+damage brought on by mats of decaying wheat residue
+often result in yield losses that may have been avoided
+by uniform spreading of residue.
+The benefits of incorporating all of the straw might
+outweigh the advantages of reducing tillage. For farms
+where erosion potential is higher, adopting a reduced
+tillage system is likely more sustainable, even with the
+need to remove some straw. Another option is using
+a system where wheat fields receive a small amount of
+tillage to partially incorporate straw while still leaving
+the soil surface largely protected.
+Researchers examined the impact of adding nitrogen
+to assist in straw breakdown. Results indicate that
+straw did not decay more quickly where nitrogen was
+spread on wheat straw in the fall. In addition, the soil
+nitrogen levels the following spring were not higher
+compared to where no nitrogen was applied.
+Weed Control
+For corn yield potential to be realized, optimum weed
+control is required. Additional management in no-till
+cropping systems may be needed to control perennial
+weeds and weed species that are new to the system
+due to a shift in weed populations. Spring pre-plant
+burndown treatments are critical in allowing the crop
+to develop without weed interference during critical
+early growth phases.
+Disease and Insect Management
+Tillage can play a role in preventing or suppressing
+certain pest and disease issues. Weeds, volunteer plants
+from the previous crop and certain cover crops left on
+the soil surface through the winter and early spring
+can increase the risk of some insect pests. Low lying
+weeds such as chickweed are ideal for egg laying by
+black cutworm moths that fly in from the southern
+United States (U.S.) in early spring. Cereal aphids
+can transmit vector viruses from volunteer wheat
+plants and infect the newly planted cereal crop. Corn
+planted into a rye cover crop increases the risk of
+7
+ 1. Corn
+armyworm infestations. Achieving good weed and
+cover crop management through herbicide applications
+in the fall and tillage in early spring at least 3 weeks
+prior to planting can avoid some of these pest risks.
+Tillage can be used in attempts to reduce populations
+of wireworms and grubs by bringing them up to the
+soil surface, exposing them to their natural enemies.
+However, caution is warranted as several passes are
+required and may not provide adequate control. Tillage
+can actually increase the risk of one particular pest,
+seedcorn maggot, if weeds, manure or cover crops
+are incorporated into the soil shortly before planting.
+Incorporation needs to occur at least 3 weeks prior
+to planting to ensure that the adults are no longer
+attracted to the decaying vegetation.
+Some diseases are more prone to no-till systems as
+tillage can help in disease management. Tillage helps
+the soil to warm up and dry quickly, reducing the risk
+of seedling diseases. Some stalk rot diseases can also
+be managed through tillage though in some cases,
+crop rotation and hybrid selection play a larger role
+in disease management.
+More details on insect pests and diseases of corn can be
+found in Chapter 15, Insects and pests of field crops and
+Chapter 16, Diseases of field crops.
+Fertilizer Placement
+Nutrient stratification (nutrients concentrated near
+the soil surface) may occur in long-term, no-till fields.
+Without the option to incorporate or mix dry fertilizer
+material in the no-till system, fertilizer placement
+becomes increasingly important.
+Studies done in Ontario and the U.S. cornbelt have
+shown that applying phosphorus and potassium
+in starter fertilizer bands resulted in yield response
+in no-till systems to be similar to fall mouldboard
+systems. This is especially evident in cases when soil
+tests indicated low to medium soil fertility levels of
+K. Planter-banded phosphorus and potassium were
+utilized more efficiently compared to fall surface
+broadcast in no-till systems. However, on sites with
+low fertility, a combination of broadcast and planter
+banding may be necessary to maximize no-till yields.
+Cooler- and less-aerated soils in no-till systems often
+have a slower rate of nitrogen mineralization compared
+to conventional tillage systems. This is often overcome
+by applying 35 kg/ha (30 lb/acre) of nitrogen in the
+starter fertilizer.
+Applying 35 kg/ha (30 lb/acre) of nitrogen in the
+starter on no-till corn planters has often overcome
+the slower nitrogen mineralization frequently
+present in no-till soils, where the balance of the
+nitrogen is applied in a side-dress application.
+Soil Compaction
+The best option for preventing soil compaction is
+to avoid field operations when soils are wet. Soil
+compaction is often cited as one of the reasons no-till
+corn may yield less than conventionally tilled corn.
+An option for enhancing corn yields in reduced tillage
+systems may include incorporating deep rooted crops
+into the rotation, and/or extensive loosening of soil
+deeper into the soil profile. This can be done without
+disrupting much of the crop residue on the soil surface
+and can be confined to zones where next year’s corn
+rows will be planted (e.g., strip-tillage).
+Usually the most effective method to minimize the risk
+of deep compaction, 35–45 cm (15–18 in.) depth is to
+reduce the number of field operations and/or minimize
+use of equipment with heavy axles (e.g., grain buggies)
+wherever possible. Avoiding field traffic when soils are
+wet will also help minimize compaction.
+Tire management can help reduce soil compaction in
+the root zone (top 20 cm (8 in.). Increasing floatation
+by minimizing inflation pressures can reduce the
+impacts of tires, especially in the surface soil layers.
+This requires three key steps:
+1. Know the axle load that each tire is carrying.
+2. Know the manufacturer's specifications for
+that tire.
+3. Adjust inflation pressures down to the minimum
+acceptable pressure for soil conditions (speed, load
+type, duals, etc.). A good target for tire inflation
+pressures to reduce soil compaction is 1 Bar
+(14.5 PSI).
+8
+Agronomy Guide for Field Crops
+Planter Performance
+Optimal planter performance is necessary to maximize
+corn yield potential in any tillage system. Planter
+performance and/or suitability are especially critical
+in no-till systems. Absence of tillage results in greater
+variability in near-surface soil properties and residue
+cover, therefore ensuring that planting equipment is
+properly maintained and adjusted for no-till planting
+conditions will lessen variability in corn plant stand
+and emergence, and increase yields in no-till systems.
+Hybrid Selection
+Maturity Ratings
+Corn development is driven primarily by temperature,
+especially during the planting-to-silking period. Unlike
+soybeans, day length has little effect on the rate at
+which corn develops. The Ontario crop heat unit
+system has been developed to calculate the impact of
+temperature on corn development. Ontario crop heat
+units (CHUs) are calculated based on daily maximum
+and minimum temperatures and allow for a numerical
+rating of growing seasons, geographical locations
+and corn hybrids. This system allows producers to
+select hybrids that have a high probability of reaching
+maturity before a killing frost occurs.
+Ontario Crop Heat Units
+CHU calculations require a start date, a formula for
+calculating CHU based on daily temperatures and an
+end date. Starting in 2009, Ontario began recording
+CHU on May 1, regardless of location or temperatures
+experienced up to that date. The CHU system uses a
+calculation to arrive at a daily CHU total and employs
+the following trigger to mark the season end: when
+average temperature falls below 12°C or the first
+occurrence of -2°C. The current CHU system and map
+(sometimes referred to as CHU-M1 because of the
+May 1 start date) are based on data from the 1971–
+2000 time period. The CHU map for Ontario is found
+in Figure 1–1, Crop heat units (CHU-M1) available for
+corn production.
+Other jurisdictions use different systems for
+quantifying the effect of temperature on corn
+development and for rating corn hybrid maturity.
+Unfortunately, these systems are unique, and true
+mathematical conversions from one to the other
+are not possible. Table 1–7, Approximate conversions
+between three systems of measuring heat accumulation
+in a growing season provides values to assist in making
+reasonable comparisons between the different systems.
+Table 1–7. Approximate conversions between
+three systems of measuring heat accumulation
+in a growing season
+Location
+Ontario
+Crop Heat
+Units
+(CHU-M1)
+Corn
+Relative
+Maturity
+(CRM)
+Growing
+Degree Days
+(Base 10)
+(GDD or
+GDU)
+Walkerton 2,759 84 2,000
+Guelph 2,828 84 2,012
+Ottawa 3,099 91 2,174
+London 3,120 92 2,203
+Simcoe 3,190 94 2,268
+Belleville 3,369 98 2,353
+Ridgetown 3,462 104 2,511
+Harrow 3,702 111 2,673
+It takes approximately 75–80 crop heat units
+to produce each corn leaf. Therefore, at
+temperatures of 30°C during the day and 20°C
+at night, there is one new leaf every 2–3 days. At
+20°C during the day and 10°C at night, one new
+leaf appears every 5–6 days.
+Producers who record daily high and low
+temperatures can use Table  10–4, Daily crop
+heat unit accumulations based on maximum and
+minimum temperatures to calculate CHU for their
+own farm.
+9
+ 1. Corn
+Figure 1–1. Crop heat units (CHU-M1) available for corn production.
+This map is based on weather data from 1971–2000 with a common season start date across the province of May 1.
+Source: Weather Innovations Inc. (WIN)
+Selecting the Most Profitable Hybrids
+Hybrid selection is probably the single most important
+management decision in determining cropping
+profitability. Corn hybrids with superior yield
+potential have been continuously introduced into the
+market place over the past 50 years. Yield increases
+of approximately 1.5% per year have been achieved.
+To remain competitive, producers must introduce
+new hybrids to their acreage on a regular basis. The
+following are a few key considerations intended as
+general guidelines for selecting hybrids. Fine-tuning
+hybrid selection for an individual farm should be done
+in consultation with seed company representatives.
+Maturity and CHU-M1
+Physiological maturity (black layer) is achieved when
+all the kernels have reached their maximum dry matter
+accumulation and there is no additional moisture or
+nutrient transport from the plant. Using crop heat
+unit ratings, hybrids can be selected to reach black
+10
+Agronomy Guide for Field Crops
+layer before traditional season-ending frosts occurs.
+Figure 1–1, Crop heat units (CHU-M1) available for
+corn production, or farm records will provide the heat
+units normally accumulated in a given area.
+Highest Yield
+In any given hybrid performance trial, there may be
+a 1.9–2.5 t/ha (30–40 bu/acre) difference in yield
+between the highest- and lowest-yielding hybrids.
+This emphasizes the importance of obtaining reliable
+information on hybrid yield potential and adaptability.
+Producers must be able to sort through information
+from several key sources: public performance trial data,
+strip trial data (seed company or farm organization)
+and on-farm comparisons.
+The Ontario Corn Committee (OCC) conducts
+corn hybrid performance trials each year across
+the province. These performance trials include the
+majority of available hybrids. Generally, these trials are
+set up so that a given set of hybrids, for a certain heat
+unit range, are tested at three to four locations. This
+data is available at www.gocorn.net and can be viewed
+in several formats to allow for stakeholders to carefully
+examine the results. These trials give a good indication
+of yield potential; however, they are limited to a few
+locations and therefore do not adequately evaluate
+hybrid adaptability over a wide range of conditions.
+For this information, producers need to turn to strip
+trials that are conducted on a larger number of sites
+across a wide range of environments. Seed companies
+summarize these strip trial results which are made
+available through their seed guides.
+Many producers find it valuable to have corn hybrid
+strip trials or comparisons on their own farm. This
+allows new, high-yield potential hybrids to be tested
+against those proven performers in the farming
+practice. However, it is important to remember that
+reliable hybrid selections require more than one test
+site, even if that site is on the producer’s own farm.
+Producers should look for 2‑year data that originates
+from many sites (preferably more than 30) before
+making decisions about hybrids that will be planted
+on a significant portion of their acreage.
+One way to look at hybrid selection is to define two
+groups of hybrids for a farm operation. The first
+group is “New Hybrids” and is comprised of the
+most promising new hybrids in the market place.
+This group will represent hybrids that are grown on a
+relatively small acreage and that are tracked carefully
+for their performance on a given farm, in strip trials
+and in public performance trials. The goal is to quickly
+identify the top hybrid in this group and move it
+into the second hybrid group which is called “Tested
+Hybrids”. The Tested Hybrids group represents hybrids
+that have proven their performance and are grown on
+a large percentage of a given operation’s corn acres.
+Producers who make the most accurate and quickest
+decisions to move new, higher performing hybrids into
+their operations will achieve maximum competitive
+advantage and yield increases.
+Producers who make the most accurate and
+quickest decisions to move new, higher performing
+hybrids into their operations will achieve maximum
+competitive advantage.
+Hybrid Positioning
+Corn hybrids have often been classified with various
+terms such as “workhorses” or “racehorses”, having
+offensive versus defensive natures. Hybrids that
+produce above-average yield under good conditions,
+but perform below average under poor conditions
+are considered racehorses (offensive). Hybrids that
+have relatively consistent yields in both low- and
+high-yielding conditions are considered workhorses
+(defensive). As site-specific management increases
+in popularity, many producers will choose racehorse
+varieties in the most productive areas of their field and
+workhorse varieties where soil or weather conditions
+are less favourable. Trends within the seed industry
+indicate that hybrids will be increasingly defined
+for their ability to fit into certain management
+strategies and/or environments. Precision agriculture
+technologies can better define the potential for hybrids
+to exploit site specific resources more effectively.
+Producers should be aware of the possibility of
+selecting hybrids that will respond more effectively to
+higher or lower input strategies. Producers can avoid
+some of the risk associated with hybrid selection by
+taking time to investigate a hybrid’s past performance.
+Select hybrids that complement each other, because they
+have different weaknesses for specific characteristics.
+For example, when selecting two long-season hybrids
+with high yield potential for earliest planting, ensure
+that they do not both score relatively low for resistance
+to the leaf diseases.
+11
+ 1. Corn
+Standability
+Select hybrids that have suitable maturity ratings
+and outstanding yield potential. Selecting for hybrid
+standability is also recommended. This trait is
+particularly important where significant field drying
+is expected. If drying facilities are available on the
+farm and harvesting at relatively high moisture levels
+(>26%) is an option, standability may be less critical.
+Traits associated with improved hybrid standability
+include resistance to stalk rot and leaf blights, genetic
+stalk strength (a thick stalk rind), short plant height,
+lower ear placement and above average late-season
+plant health. Plant intactness or late-season plant
+health ratings also indicate better harvestability ratings.
+One of the most significant advancements in improved
+standability has been the introduction of Bt hybrids
+that are resistant to a range of corn feeding pests. All
+producers using Bt hybrids are required to plant a refuge
+which contains corn plants that are not genetically
+modified in order to prevent a build-up of resistant pest
+strains. Producers can now purchase refuge incorporated
+blends that contain both Bt and non-Bt seed in the
+same bag, eliminating some of the issues with having
+to plant separate refuge. For further information on Bt
+corn refer to Chapter 15, Insects and Pests of Field Crops
+as well as the Canadian Corn Pest Coalition website
+at www.cornpest.ca.
+Harvest Moistures and Drying Costs
+Hybrid selection may also be influenced by the
+producer’s target harvest moistures. In situations
+where corn is stored as high moisture grain (e.g., 28%
+moisture), producers have an opportunity to maximize
+returns by growing full-season, high-yielding hybrids.
+If corn is dried during storage, evaluate the impact
+that high harvest moistures may have on net returns.
+For example, any potential gains in net returns from
+a hybrid that yields 0.31 t/ha (5 bu/acre) greater than
+another should be balanced against increased drying
+charges. OCC performance trial data has shown that
+when corn is planted early, aggressive hybrid selection
+(i.e., full-season and beyond) often results in yield
+advantages over hybrids that mature in less days
+(shorter-season hybrids). The increased yield from fullor long-season hybrids more than compensates for the
+increased drying costs due to higher harvest moistures.
+Producers should evaluate net returns for hybrids after
+dryings costs. Depending on drying costs a 2–3 bushel
+per acre increase in yield often more than compensates
+for an additional 1% increase in harvest moistures.
+Selecting Hybrids for Silage
+When choosing hybrids specifically for whole-plant
+silage, a yield advantage can usually be obtained by
+selecting hybrids rated 100–200 heat units higher than
+those selected for grain. Select hybrids for high silage
+yields with improved digestible energy. Silage‑only
+and dual-purpose corn hybrids are available on the
+market. Dual‑purpose hybrids offer grain harvest as an
+option, providing more flexibility when the silo is full.
+Without sufficient independent data, it is very difficult
+to compare and select corn silage hybrids between
+companies. Choose top hybrids that have strong
+ratings for silage yield and quality. Various models are
+used to compare the economic value of corn silage
+hybrids. The University of Wisconsin has developed
+“milk per acre” and “milk per ton” calculations using
+their Milk 2006 model to combine the traits of silage
+yield, digestibility, fibre, starch, crude protein and
+intake potential into single measures. Milk per ton
+measures quality, while milk per acre combines yield
+and quality.
+Switching to Shorter-Season Hybrids
+Field conditions may delay planting and necessitate
+switching to less than full-season hybrids. Factors to
+consider in this decision include yield potential of
+shorter-season hybrids, test weight concerns, drying
+costs and late-season harvesting capabilities.
+Grain corn obtains 90% of its total grain weight by the
+time it reaches one-half milk line, a maturity stage that
+even late-planted, full-season hybrids reach in most
+years. Switching to shorter-season hybrids may be a
+reasonable alternative from a grain yield perspective if
+earlier maturing hybrids can produce within 10% of
+the full-season hybrid’s yield. Generally, this is a more
+favourable proposition in longer-season areas.
+Growing full season 3,000 CHU-M1 hybrids allows
+for switching to hybrids that are 100–150 heat units
+less without sacrificing excessive yield. If the full-season
+hybrids are in the 2,800 CHU-M1 range, the odds
+of dropping to a hybrid 100 heat units less without
+giving up more than 10% yield are low.
+Extensive research across the northern cornbelt defines
+the optimal date when producers should switch
+away from full-season hybrids. Some of this data is
+summarized in Table 1–8, Recommended dates to switch
+from full-season hybrids across various heat unit zones.
+12
+Agronomy Guide for Field Crops
+This collection of long-term data took into account
+yields for hybrids of various maturity ratings as
+well as deductions for test weight and drying. The
+switch date indicates the planting date when earliermaturing hybrids surpass full-season hybrids in terms
+of net returns (gross returns less drying and test
+weight deductions).
+Table 1–8. Recommended dates to switch from
+full-season hybrids across various heat unit zones
+Heat Unit Zone (CHU-M1) Switch Date
+>3,200+ May 30–early June
+2,800–3,200 May 20–25
+<2,800 May 15–20
+Source: Adapted from R. Iragavarapu. Basing Hybrid Maturity
+Switches on Long-Term Data. Pioneer Hi-Bred Ltd.
+Growing hybrids with a range in maturity provides
+some buffer against stresses at silking time and
+end-of-season risks. However, making significant
+adjustments to shorter season hybrids should not be
+considered until May 30–June 1 for areas in southwest
+(>3,200 CHU-M1); until May 20–25 for the midmaturity corn growing areas (2,800–3,200 CHU-M1)
+and until May 15–20 in the shorter-season areas
+(<2,800 CHU-M1).
+A general rule has been to reduce hybrid maturity
+by 100 CHU for every week that planting is delayed
+beyond the cut-off date for full-season hybrids.
+Test Weight Concerns
+Lower test weights often result if end-of-season frosts
+occur before late-planted corn has reached maturity
+(black layer). Consider test weight potential when
+selecting hybrids for planting in a late spring. Potential
+dockage from delivering lower bushel weight corn to
+an elevator or end user is shown in Table 1–9, Grain
+corn test weights and potential dockage.
+Table 1–9. Grain corn test weights and
+potential dockage
+Current as of Spring 2016. Potential discounts may vary
+considerably depending on year and location.
+Grade Test Weight Minimum Potential Discount
+1 68.0 kg/hL
+(55.6 lb/bu)
+$0.00/tonne
+2 66.0 kg/hL
+(52.8 lb/bu)
+$0.00/tonne
+3 64.1 kg/hL
+(51.4 lb/bu)
+$2.00/tonne
+4 62.0 kg/hL
+(49.7 lb/bu)
+$6.00/tonne
+5 58.0 kg/hL
+(46.5 lb/bu)
+$12.00/tonne
+Farming operations that handle and feed all of their
+own corn may be unaffected by test weight concerns
+and may choose to remain with full-season hybrids
+longer into the planting season. Experience and
+research from 1992, 2000 and 2014 indicated there
+was little or no correlation between test weight and
+livestock feed value. Producers who deliver all their
+corn to elevators or processors may want to switch to
+earlier hybrids to increase the potential for suitable
+test weights at harvest. Producers in shorter-season
+areas who fear significant yield losses by switching to
+earlier-maturing hybrids may consider staying with
+full-season hybrids but switching to hybrids that have
+higher test weight scores.
+Harvesting
+Remaining dedicated to high-yielding, later-maturing
+hybrids may present some logistical harvest issues.
+Fields planted to potentially delayed hybrids should
+be well-drained and have good load-bearing capacities
+to facilitate late-season harvesting in less than ideal
+conditions. Avoid planting later-maturing hybrids
+in areas of the province that are more prone to
+snow in November. The snow adheres to leaves
+and husks, delaying harvest until the snow melts
+from the corn plants.
+13
+ 1. Corn
+Planting
+Seeding Date
+The best yields in Ontario are usually obtained from
+corn planted in late April and the first half of May,
+as the crop is able to use the full growing season.
+Early planting also results in earlier maturity in the
+fall, reducing the risk of damage from an early fall
+frost or adverse weather at harvest. The influence of
+planting date on corn yield is illustrated in Table 1–10,
+Expected grain yield due to various planting dates. Most
+noteworthy is the rapid decline in yield for the shorter
+season areas compared to longer season areas as planting
+dates are delayed.
+Depending on the total number of days required to
+plant the farm’s entire corn acreage, it is generally
+necessary to start planting corn before the optimum
+date. Producers wanting to plant corn significantly
+earlier than optimum dates (i.e., April 15–25) should
+consider that soil temperatures need to reach 10°C
+before germination and emergence will occur. The
+average daily temperature is estimated by taking a
+temperature measurement close to 11:30 a.m. using
+a 10 cm (4 in.) soil thermometer. Early planting
+of a portion of the corn crop can be considered if
+average soil temperatures are at or above 10°C, the
+soil conditions are favourable and the weather forecast
+is predicting average to above-average temperatures.
+It is generally advised to pay less attention to soil
+temperature and to plant as soil moisture conditions
+permit after April 26 in areas receiving greater than
+3,000 CHU-M1 or May 1 in areas <3,000 CHU-M1.
+In general, the loss of potential yield associated with
+planting 2–3 weeks before optimum planting date is
+less than the loss associated with planting 2–3 weeks
+after the optimum planting date.
+Population
+Plant populations referred to in this section are the
+suggested final plant stands, see Table 1–11, Seed
+spacing to achieve various populations. Since not all
+seeds emerge, it is necessary to seed at slightly higher
+rates. When planting early in the season or when the
+soil is cold, a seeding rate 10% higher than the desired
+final stand is suggested. When soils are warmer, an
+adjustment of 5% is sufficient.
+Table 1–10. Expected grain yield due to various planting dates
+Trials conducted by the Ontario Corn Committee at the indicated location in 2006–2010. All data is derived from corn that had a population
+of 74,000 plants/ha (30,000 plants/acre). Yields are indexed relative to a planting date prior to May 10.
+Location Jun 10 Jun 05 May 30 May 25 May 20 May 15
+Prior to
+May 10
+Elora (<2,800 CHUs) 65 75 85 92 96 99 100
+Exeter (2,800–3,200 CHUs) 84 89 93 96 98 100 100
+Ridgetown (>3,200 CHUs) 87 91 94 97 99 100 100
+Table 1–11. Seed spacing to achieve
+various populations
+Final population
+Distance between in-row
+corn plants
+Row
+width:
+51 cm
+(20 in.)
+Row
+width:
+76 cm
+(30 in.)
+Row
+width:
+91 cm
+(36 in.)
+54,300 plants/ha
+(22,000 plants/acre)
+36 cm
+(14.3 in.)
+24 cm
+(9.5 in.)
+20 cm
+(7.9 in.)
+59,300 plants/ha
+(24,000 plants/acre)
+33 cm
+(13.1 in.)
+22 cm
+(8.7 in.)
+18 cm
+(7.2 in.)
+64,200 plants/ha
+(26,000 plants/acre)
+31 cm
+(12.1 in.)
+20 cm
+(8.1 in.)
+17 cm
+(6.7 in.)
+69,200 plants/ha
+(28,000 plants/acre)
+29 cm
+(11.2 in.)
+19 cm
+(7.5 in.)
+16 cm
+(6.2 in.)
+74,100 plants/ha
+(30,000 plants/acre)
+27 cm
+(10.5 in.)
+18 cm
+(7.0 in.)
+15 cm
+(5.8 in.)
+79,000 plants/ha
+(32,000 plants/acre)
+25 cm
+(9.8 in.)
+17 cm
+(6.6 in.)
+14 cm
+(5.4 in.)
+84,000 plants/ha
+(34,000 plants/acre)
+23 cm
+(9.2 in.)
+16 cm
+(6.1 in.)
+13 cm
+(5.1 in.)
+88,900 plants/ha
+(36,000 plants/acre)
+22 cm
+(8.7 in.)
+15 cm
+(5.8 in.)
+12 cm
+(4.8 in.)
+93,800 plants/ha
+(38,000 plants/acre)
+21 cm
+(8.3 in.)
+14 cm
+(5.5 in.)
+12 cm
+(4.6 in.)
+98,800 plants/ha
+(40,000 plants/acre)
+20 cm
+(7.8 in.)
+13 cm
+(5.2 in.)
+11 cm
+(4.4 in.)
+Row Length
+for 1/1,000 of an acre
+7.9 m
+(26.1 ft)
+5.3 m
+(17.4 ft)
+4.4 m
+(14.5 ft)
+1 ha = 2.47 acre; 1 cm = 0.39 in.
+14
+Agronomy Guide for Field Crops
+In Ontario, corn is commonly grown at plant
+populations of 69,200–88,900 plants/ha
+(28,000–36,000 plants/acre). These populations
+maximize light interception and can produce good
+yields over a wide range of growing conditions without
+excessive lodging. In recent years, hybrids have been
+developed that tolerate higher plant densities without
+excessive lodging or barrenness. When old and new
+hybrids are grown side by side under very low plant
+populations, their yields are almost identical. Higher
+yield responses are obtained when newer hybrids are
+grown at higher densities. Much of the historical
+yield improvement has resulted from developing
+hybrids that excel under higher densities. Some
+of the most recent hybrids have economically
+optimum populations of 79,000–98,800 plants/ha
+(32,000–40,000 plants/acre). Refer to seed company
+data to fine-tune hybrid management and planting
+density decisions.
+On drought-susceptible fields where water availability
+is the yield-limiting factor, the yield potential
+may not cover the cost of higher seeding rates. In
+these situations, adjusting populations downward
+can achieve some savings. Higher populations are
+warranted as yield potential increases. One study
+indicated that for every 0.94 t/ha (15 bu/acre) increase
+in a field’s (or portion of a field’s) yield potential,
+economically optimal populations increased by
+1,112 plants/ha (450 plants/acre).
+In Ontario, it is common to aim for higher average
+final plant stands than that of the U.S. midwest. The
+most productive fields should be near the upper end
+of the plant population range for the hybrids being
+planted. In shorter-season areas of the province, where
+smaller-stature hybrids are grown, producers should
+consider even higher populations to maximize light
+interception and optimize yields. Yield increases
+from increased plant densities have generally been
+lowest in the longer-season regions of Ontario (over
+3,200 CHU-M1 heat units).
+Corn silage plant populations are often promoted as
+needing to be higher (10%) than grain corn. Research
+from Cornell University disputes this, showing no
+advantage to having plant stands of more than 86,500
+plants/ha (35,000 plants/acre) for any of the hybrids
+tested. The research predicted that as hybrid populations
+increased, silage digestibility declined. Optimum plant
+populations may be very hybrid specific due to the
+genetic diversity among silage hybrids.
+Planting Depth
+The first rule of corn planting is to plant into moisture
+(25%–50% or near field capacity). However, a few
+other considerations allow for some fine-tuning of
+planting depth. Shallow planting of corn (less than
+3 cm (1.2 in.) deep), even into moisture, may lead to
+less favourable positioning of the growing point and
+first nodal roots (Photo 1–3). This may lead to rootless
+corn syndrome in some cases and predisposes the seed
+to greater injury from herbicides. Coarse-textured soils
+that dry rapidly at the surface will also be more prone
+to poor root establishment with shallow plantings.
+Optimum corn planting depth means always
+placing the seed in moisture. Be sure to check
+that even if the corn planter is set at a target
+depth of 4–5 cm (1.6–2.0 in.), that no seed in the
+field is less than 3.8 cm (1.5 in.) deep.
+In contrast, planting deeper at 5.7–8.2 cm (2.25–3.25 in.),
+especially when soils are cold early in the planting
+season, can delay emergence compared to planting at
+depths of 4–5 cm (1.6–2.0 in.). Delayed emergence
+can lead to increased risk of insect feeding or seedling
+diseases. As the planting season progresses and as soils
+warm and dry, ensure that the corn seed is placed
+firmly into moisture and planted at a target depth of
+5 cm (2 in.). When planting is extended and soils
+warm, planting at depths of 7.5 cm (3 in.) in order to
+find moisture is often less risky than planting shallower
+and hoping for rain.
+Photo 1–3. Uneven planting depth. Uniform seeding
+depth is critical to achieving uniform emergence.
+15
+ 1. Corn
+Physiologically speaking, a corn seed that is placed into
+moisture at 3.8 cm (1.5 in.) deep will have excellent
+performance. The challenge comes when a corn planter
+is set to deliver seeds at 3.8 cm deep and due to planter
+row-unit bounce or some areas of the field with a seedbed
+that is rough, uneven or compacted will have some seed
+planted too shallow for good emergence. Therefore, it is
+often advisable to set the planter slightly deeper to avoid
+having any seeds that are less than 3.8 cm (1.5 in.) deep.
+Planting depth can be evaluated well into the growing
+season by carefully excavating the plant, removing
+the nodal roots, and identifying the mesocotyl. The
+mesocotyl is generally a white, mostly hairless structure
+that runs from the seed to the crown. Measuring the
+length of the mesocotyl and adding 1.9 cm (0.75 in.)
+results in an accurate assessment of planting depth.
+Corn Development
+The vegetative and reproductive growth stages in corn
+are described in Table 1–12, Vegetative growth stages in
+corn and Table 1–13, Reproductive growth stages in corn.
+CHU-M1 Season-Ending Dates
+The end of the growing season is defined as the
+first occurrence of a killing frost (-2°C), or the
+date when the daily average temperature has
+historically (30 year norms) fallen below 12°C. In
+the 30 year data used for CHU calculations, the
+season is terminated approximately 10% of the
+time by an occurrence of -2°C killing frost.
+Table 1–12. Vegetative growth stages in corn
+Stage VE V1 V4 V6 V8 V12 VT
+Leaf Collars 0 1 4 6 8 12 (varies)
+Leaf Tips 1 3 7 10 11 15 (varies)
+Leaf Over 0 2 6 8 10 14 (varies)
+CHUs
+Required1
+180 330 630 780 930 1,170 1,310
+Target Date2 May 16 May 25 June 11 June 18 June 26 June 31 July 18
+Notes •Emergence.
+•Days to emerge
+most often
+ranges from
+6–21 days.
+•Uniform
+emergence
+essential to
+high yields.
+•Look for poor
+germination
+caused
+by chafer,
+wireworms,
+seedcorn
+maggot,
+seedcorn
+beetle, slugs,
+black cutworm.
+•Start of
+critical weedfree period.
+•Growing
+point below
+ground.
+•Ensure
+herbicide
+selection is
+safe for crop
+stage.
+•Ear initiation.
+•Growing
+point below
+ground.
+•Expansion
+of nodal
+root system
+will soon
+completely
+replace
+seminal root
+system.
+•Risk from
+cutworm and
+flea beetle
+damage has
+passed.
+•End of
+critical weedfree period.
+•Lower leaves
+(1–4) dry up,
+may not be
+visible.
+•Growing point
+at or above
+ground; more
+susceptible
+to frost injury.
+•Initiated ears
+and tassel
+now visible
+upon plant
+dissection.
+•Sidedressing
+nitrogen and
+inter-row
+cultivation
+beyond
+this point
+pose threat
+of root
+pruning.
+•Beginning
+rapid stem
+elongation.
+•Risk from
+slug damage
+has passed.
+•Crop
+becomes
+increasingly
+sensitive
+to yield
+reduction
+by heat or
+drought.
+•Size of ear
+and number
+of potential
+kernels
+being
+established.
+•Tassel
+emerges.
+•Pollen shed
+begins
+2–3 days
+prior to silk
+emergence.
+•Pollen viability
+reduced
+by drought
+and high
+temperatures.
+•Scout for corn
+leaf aphids,
+corn rootworm
+adults and
+goosenecking
+caused by
+rootworm larva.
+1 Approximate CHUs required to reach various stages of corn development.
+2 Estimated date to reach various stages of development based on long-term heat unit accumulations for an average 2,800 CHU
+region and anticipating a May 5 planting date.
+16
+Agronomy Guide for Field Crops
+Table 1–13. Reproductive growth stages in corn
+LEGEND: NA = no data available, kernels not formed until after pollination.
+R Stage R1 – Silking R2 – Blister R3 – Milk R4 – Dough R5 – Dent R6 – Maturity
+Description Silks emerge
+from husks at tip
+of ear.
+Kernels are
+white, filled with
+clear fluid and
+distinct from
+surrounding cob
+material.
+Kernels begin
+to have yellow
+colour. Inner fluid
+is milky white.
+Milky inner fluid
+becomes thicker
+and pasty. Outer
+edges of kernels
+become firmer.
+Some dents
+appear.
+Majority of
+kernels are
+dented. Hard
+white layer of
+starch evident
+at top of kernel
+(milk line).
+Hard starch layer
+evident from
+top to bottom
+of kernel. Black
+layer forms at
+base of kernel.
+CHU Required1 1,480 1,825 2,000 2,165 2,475 2,800
+Target Date2 July 20 Aug. 3 Aug. 11 Aug. 18 Sept. 1 Sept. 18
+Kernel Moisture NA 85% 80% 70% 55% 30%–35%
+Notes •Pollination
+requires
+3–7 days.
+•Silks continue
+to elongate
+until fertilized.
+•Environmental
+stresses very
+detrimental
+to yield.
+•Begin scouting
+for ear insect
+pests (corn
+earworm, fall
+armyworm).
+•Kernels
+beginning
+dry matter
+accumulation.
+•Relocation of
+nutrients from
+the leaves and
+stem to the
+ear begins.
+•Firing of
+lower leaves
+may become
+evident.
+•Rapid grain
+filling period.
+•Good plant
+health,
+clear skies
+and active
+photosynthesis
+add to kernel
+size and
+test weight.
+•Top of kernel
+begins to
+firm up.
+•Killing frost
+may cause
+yield losses
+of 25%–40%.
+•Begin to
+assess ear
+rot incidence.
+•Milk line
+advances
+toward tip as
+crop matures.
+•Whole plant
+moistures
+suitable for
+silage harvest.
+•90% of grain
+yield reached
+by one-half
+milk line.
+•Examine fields
+for lodging,
+ear drop and
+stalk rots. If
+high, consider
+harvesting early.
+•Physiological
+maturity.
+•Kernels have
+achieved
+maximum
+dry weight.
+•Moisture loss
+from kernels
+still required
+for suitable
+threshing.

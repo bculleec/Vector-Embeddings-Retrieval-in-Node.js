@@ -22,7 +22,7 @@ function generateEmbedding(text) {
     (normalized.match(/\d/g) || []).length / normalized.length || 0, // Digit ratio
     (normalized.match(/[.!?]/g) || []).length / words.length || 0, // Punctuation ratio
     Math.min(words.length > 0 ? words.reduce((sum, w) => sum + w.length, 0) / words.length / 10 : 0, 1), // Avg word length
-    (normalized.match(/[A-Z]/g) || []).length / text.length || 0, // Uppercase ratio (before normalization)
+    (text.match(/[A-Z]/g) || []).length / text.length || 0, // Uppercase ratio
     text.includes('?') ? 1 : 0, // Contains question
     text.includes('!') ? 1 : 0, // Contains exclamation
   ];

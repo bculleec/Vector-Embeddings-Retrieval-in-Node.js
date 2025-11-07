@@ -187,6 +187,8 @@ Environment variables:
 - `PORT`: Server port (default: 3000)
 - `HOST`: Server host (default: 0.0.0.0)
 
+**Note:** The demo uses permissive CORS settings (`origin: true`) for ease of testing. In production, configure CORS to only allow specific trusted origins.
+
 ## 🎓 Learning Resources
 
 This demo illustrates concepts used in:

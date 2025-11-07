@@ -69,7 +69,7 @@ fastify.post('/documents', async (request, reply) => {
 
 // Search for similar documents
 fastify.post('/search', async (request, reply) => {
-  const { query, topK = 5, threshold = 0, method = 'cosine' } = request.body;
+  const { query, topK = 5, threshold = 0, maxDistance, method = 'cosine' } = request.body;
 
   if (!query || typeof query !== 'string') {
     return reply.code(400).send({ error: 'Query field is required and must be a string' });
@@ -80,7 +80,7 @@ fastify.post('/search', async (request, reply) => {
     
     let results;
     if (method === 'euclidean') {
-      results = vectorStore.searchByDistance(queryEmbedding, topK);
+      results = vectorStore.searchByDistance(queryEmbedding, topK, maxDistance);
       results = results.map(({ embedding, ...rest }) => rest); // Remove embedding from response
     } else {
       results = vectorStore.search(queryEmbedding, topK, threshold);

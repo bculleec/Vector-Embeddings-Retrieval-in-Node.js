@@ -16,6 +16,9 @@
     "ai",
     "similarity-search"
   ],
+  "engines": {
+    "node": ">=18.11.0"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {

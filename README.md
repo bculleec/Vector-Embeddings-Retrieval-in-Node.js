@@ -27,6 +27,13 @@ npm start
 
 The server will start on `http://localhost:3000`
 
+### Run Tests
+
+```bash
+# Run the test suite
+npm test
+```
+
 ## 🎯 Features
 
 - **Vector Embeddings**: Convert text into numerical vector representations

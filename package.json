@@ -1,0 +1,25 @@
+{
+  "name": "vector-embeddings-retrieval-demo",
+  "version": "1.0.0",
+  "description": "Simple demo of how Vector Embeddings and Retrieval work in AI powered applications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "vector",
+    "embeddings",
+    "retrieval",
+    "fastify",
+    "ai",
+    "similarity-search"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.25.0",
+    "@fastify/cors": "^8.4.0"
+  }
+}

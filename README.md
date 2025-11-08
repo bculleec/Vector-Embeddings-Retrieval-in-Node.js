@@ -1,7 +1,7 @@
 # Vector-Embeddings-Retrieval-in-Node.js
 Simple demo of how Vector Embeddings and Retrieval work in AI powered applications. 
 
-🚀 You can check out a working demo here: [DEMO](https://bculleec.up.railway.app/)
+🚀 You can check out a working demo here: [DEMO](https://bculleec.up.railway.app/vector-embeddings-demo.html)
 
 # What
 Vector Embeddings are crucial to the way AI Systems remember things. You'll see in this demo how the computer is able to convert plain text into semantic groupings and find sections by ideas!

@@ -12,4 +12,36 @@ The powerful building blocks of AI retrieval systems are simple, transparent and
 # Setup
 Clone this repo and find out how it works under the hood.
 
+### Clone the repo
+```bash
+git clone https://github.com/yourusername/Vector-Embeddings-Retrieval-in-Node.js
+cd Vector-Embeddings-Retrieval-in-Node.js
+```
+
+### Install dependencies
+```bash
+npm install
+```
+
+### Add your text
+Drop any `.txt` file inside the `data/` directory.  
+The included example uses *Alice in Wonderland*, but you can replace it with anything you like.
+
+### Build vectors
+```bash
+node main.js
+```
+This runs your pipeline to chunk the text and create:
+- `chunks.json` → all the text chunks  
+- `vectors.json` → vector representations of those chunks
+
+### Run the server
+```bash
+npm start
+```
+or
+```bash
+node server.js
+```
+This serves both the backend API and the frontend demo at [http://localhost:3000](http://localhost:3000).
 

@@ -1,4 +1,2 @@
 .env
-data/chunks.json
-data/vectors.json
 node_modules/

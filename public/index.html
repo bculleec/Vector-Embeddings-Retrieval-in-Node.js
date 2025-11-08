@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vector Embeddings & Retrieval</title>
+  <style>
+    :root {
+        color-scheme: dark;
+        --bg: #121212;
+        --text: #eaeaea;
+        --font: 'Inter', system-ui, -apple-system, sans-serif;
+        --accent: #1b1b1d;
+
+    }
+    body { font-family: sans-serif; margin: 40px; background: var(--bg); color: var(--text);font-family: var(--font); }
+    input, button { padding: 10px; font-size: 16px; }
+    #results { margin-top: 20px; white-space: pre-wrap; }
+    .chunk { background: var(--accent); border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <h2>Vector Embeddings & Retrieval Demo (Alice In Wonderland)</h2>
+  <input id="query" type="text" placeholder="Search Alice..." size="50" />
+  <button id="searchBtn">Search</button>
+  <div id="results"></div>
+
+  <script>
+    const btn = document.getElementById('searchBtn');
+    const input = document.getElementById('query');
+    const resultsDiv = document.getElementById('results');
+
+    input.addEventListener('keypress', (event) => {
+        if (event.key === 'Enter') {
+            event.preventDefault();
+            btn.click();
+        }
+    })
+
+    btn.addEventListener('click', async () => {
+      const q = input.value.trim();
+      if (!q) return;
+      resultsDiv.textContent = 'Searching...';
+
+      try {
+        const res = await fetch('/query', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ q })
+        });
+
+        const data = await res.json();
+        console.log(data);
+        if (!Array.isArray(data.results)) {
+          resultsDiv.textContent = 'No results.';
+          return;
+        }
+
+        resultsDiv.innerHTML = data.results
+          .map((chunk, i) => `<div class="chunk"><b>${i + 1}.</b> ${chunk.text}</div>`)
+          .join('');
+      } catch (err) {
+        resultsDiv.textContent = 'Error fetching results.';
+        console.error(err);
+      }
+    });
+  </script>
+</body>
+</html>

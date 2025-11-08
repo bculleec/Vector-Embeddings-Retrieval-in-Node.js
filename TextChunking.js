@@ -1,3 +1,5 @@
+import { writeFile } from 'fs/promises';
+
 function chunkText(text, charactersPerChunk) {
     // Returns the chunks as an array with id and chunk
     const chunkArray = [];
@@ -13,4 +15,8 @@ function chunkText(text, charactersPerChunk) {
     return chunkArray;
 }
 
-export { chunkText };
+async function saveChunks(chunks, fileLocation) {
+    await writeFile(fileLocation, JSON.stringify(chunks), 'utf8')
+}
+
+export { chunkText, saveChunks };

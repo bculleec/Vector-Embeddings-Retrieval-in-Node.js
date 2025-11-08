@@ -14,7 +14,7 @@ Clone this repo and find out how it works under the hood.
 
 ### Clone the repo
 ```bash
-git clone https://github.com/yourusername/Vector-Embeddings-Retrieval-in-Node.js
+git clone https://github.com/bculleec/Vector-Embeddings-Retrieval-in-Node.js
 cd Vector-Embeddings-Retrieval-in-Node.js
 ```
 
